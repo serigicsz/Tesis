@@ -1,0 +1,1001 @@
+Unnamed: 0,Nombre,Grado,Seccion,Distrito,Matematica,Comunicacion,Ciencias_Sociales,CTA,Ingles,Asistencia,Conducta,Edad,Presento_problemas_de_salud,Vive_con_padre_y_madre,Temas_presentan_dificultad,Presento_trastornos_psicologicos,Situacion_economica_estable
+0,Alumno 1,1,A,Ventanilla,19,8,18,5,20,11,13,12,No,Sí,Sí,No,Sí
+1,Alumno 2,1,B,Puente Piedra,17,13,8,8,5,17,5,12,No,Sí,Sí,No,Sí
+2,Alumno 3,1,A,Ventanilla,16,19,9,11,5,12,7,12,Sí,Sí,Sí,Sí,Sí
+3,Alumno 4,1,B,Los Olivos,8,8,12,16,9,16,15,12,No,No,Sí,Sí,Sí
+4,Alumno 5,1,A,Los Olivos,15,17,18,20,17,20,11,12,No,No,Sí,No,Sí
+5,Alumno 6,1,B,Callao,7,16,7,19,13,10,10,12,Sí,No,Sí,Sí,Sí
+6,Alumno 7,1,A,Puente Piedra,8,16,7,5,10,15,11,12,Sí,No,Sí,No,Sí
+7,Alumno 8,1,B,Los Olivos,17,20,18,12,7,12,12,12,Sí,Sí,Sí,Sí,Sí
+8,Alumno 9,1,A,Los Olivos,16,20,19,16,17,17,10,12,No,No,No,No,Sí
+9,Alumno 10,1,B,Puente Piedra,11,20,18,14,7,15,7,12,No,No,Sí,Sí,Sí
+10,Alumno 11,1,A,Ventanilla,17,16,15,16,11,11,6,12,Sí,Sí,No,No,Sí
+11,Alumno 12,1,B,Ventanilla,15,17,8,15,10,15,16,12,No,No,No,No,Sí
+12,Alumno 13,1,A,Callao,5,19,5,10,13,16,11,12,No,Sí,No,Sí,No
+13,Alumno 14,1,B,Ventanilla,10,18,13,9,10,14,16,12,No,No,Sí,Sí,Sí
+14,Alumno 15,1,A,Puente Piedra,19,8,12,14,9,12,16,12,Sí,Sí,No,Sí,No
+15,Alumno 16,1,B,Los Olivos,19,6,12,15,14,13,16,12,Sí,No,Sí,Sí,No
+16,Alumno 17,1,A,Ventanilla,20,17,18,19,11,13,15,12,Sí,Sí,Sí,Sí,Sí
+17,Alumno 18,1,B,Callao,7,16,14,18,5,15,5,12,No,Sí,No,No,No
+18,Alumno 19,1,A,Ventanilla,15,19,10,13,16,19,7,12,Sí,No,Sí,No,No
+19,Alumno 20,1,B,Puente Piedra,14,10,11,6,11,10,16,12,Sí,Sí,No,No,No
+20,Alumno 21,1,A,Callao,11,20,10,9,20,20,15,12,Sí,Sí,Sí,Sí,Sí
+21,Alumno 22,1,B,Ventanilla,14,17,20,10,7,13,8,12,No,No,Sí,Sí,No
+22,Alumno 23,1,A,Callao,6,15,13,11,18,19,17,12,No,No,No,Sí,No
+23,Alumno 24,1,B,Puente Piedra,18,18,7,20,13,13,18,12,No,No,Sí,No,No
+24,Alumno 25,1,A,Los Olivos,6,6,18,20,19,19,5,12,Sí,No,Sí,No,No
+25,Alumno 26,1,B,Puente Piedra,17,16,7,9,10,10,9,12,No,No,Sí,No,Sí
+26,Alumno 27,1,A,Puente Piedra,8,11,7,13,13,18,14,12,No,No,No,Sí,No
+27,Alumno 28,1,B,Puente Piedra,5,7,14,5,17,13,7,12,No,No,No,No,Sí
+28,Alumno 29,1,A,Puente Piedra,7,19,7,11,19,16,6,12,Sí,Sí,Sí,No,No
+29,Alumno 30,1,B,Los Olivos,17,7,13,14,9,12,19,12,No,No,Sí,No,No
+30,Alumno 31,1,A,Los Olivos,13,9,16,11,11,19,7,12,Sí,No,Sí,No,No
+31,Alumno 32,1,B,Callao,11,7,8,8,17,12,12,12,Sí,No,Sí,Sí,Sí
+32,Alumno 33,1,A,Ventanilla,19,6,17,13,20,17,20,12,No,Sí,No,Sí,No
+33,Alumno 34,1,B,Los Olivos,11,14,11,18,18,17,10,12,Sí,No,Sí,No,No
+34,Alumno 35,1,A,Los Olivos,17,13,18,16,8,20,17,12,Sí,No,Sí,No,Sí
+35,Alumno 36,1,B,Ventanilla,17,6,19,20,19,10,18,12,No,No,Sí,Sí,No
+36,Alumno 37,1,A,Los Olivos,15,18,13,20,20,19,11,12,Sí,No,Sí,Sí,No
+37,Alumno 38,1,B,Puente Piedra,8,15,15,15,11,11,16,12,Sí,No,Sí,No,Sí
+38,Alumno 39,1,A,Puente Piedra,20,6,16,9,17,17,10,12,No,No,Sí,Sí,Sí
+39,Alumno 40,1,B,Ventanilla,6,17,11,8,5,10,10,12,No,No,Sí,Sí,No
+40,Alumno 41,1,A,Callao,19,19,13,17,11,17,20,12,Sí,Sí,No,Sí,No
+41,Alumno 42,1,B,Callao,18,12,16,11,12,17,16,12,Sí,Sí,No,No,No
+42,Alumno 43,1,A,Ventanilla,8,19,7,8,9,11,20,12,Sí,Sí,Sí,Sí,No
+43,Alumno 44,1,B,Ventanilla,10,13,19,19,6,13,7,12,Sí,Sí,Sí,Sí,No
+44,Alumno 45,1,A,Puente Piedra,15,11,8,7,9,15,16,12,Sí,Sí,No,No,Sí
+45,Alumno 46,1,B,Callao,15,7,18,13,10,20,17,12,No,Sí,No,No,Sí
+46,Alumno 47,1,A,Los Olivos,7,13,12,20,16,18,18,12,Sí,Sí,No,No,Sí
+47,Alumno 48,1,B,Puente Piedra,5,7,10,15,6,17,12,12,No,No,No,Sí,Sí
+48,Alumno 49,1,A,Ventanilla,18,9,9,12,18,17,16,12,No,Sí,Sí,Sí,No
+49,Alumno 50,1,B,Callao,16,13,17,5,10,16,11,12,No,No,Sí,Sí,Sí
+50,Alumno 51,1,A,Los Olivos,12,16,8,11,10,18,11,12,Sí,No,No,Sí,Sí
+51,Alumno 52,1,B,Los Olivos,16,18,12,13,5,11,10,12,Sí,Sí,No,Sí,Sí
+52,Alumno 53,1,A,Puente Piedra,17,18,5,12,18,12,9,12,Sí,Sí,Sí,Sí,Sí
+53,Alumno 54,1,B,Callao,9,7,18,12,5,19,14,12,Sí,No,No,Sí,Sí
+54,Alumno 55,1,A,Callao,19,11,13,17,18,17,12,12,No,No,No,Sí,Sí
+55,Alumno 56,1,B,Ventanilla,20,20,20,10,15,15,9,12,No,Sí,Sí,Sí,Sí
+56,Alumno 57,1,A,Callao,9,20,5,15,20,19,13,12,Sí,No,Sí,No,Sí
+57,Alumno 58,1,B,Callao,15,16,12,8,14,18,13,12,Sí,No,Sí,Sí,Sí
+58,Alumno 59,1,A,Puente Piedra,8,5,8,12,7,19,5,12,Sí,No,Sí,No,No
+59,Alumno 60,1,B,Callao,10,8,13,7,18,13,10,12,No,No,Sí,No,No
+60,Alumno 61,1,A,Los Olivos,7,8,18,17,14,17,11,12,No,Sí,Sí,No,Sí
+61,Alumno 62,1,B,Puente Piedra,13,11,15,13,14,19,7,12,No,No,Sí,No,No
+62,Alumno 63,1,A,Puente Piedra,9,12,9,17,19,12,20,12,No,Sí,Sí,Sí,No
+63,Alumno 64,1,B,Ventanilla,7,5,7,6,16,12,11,12,No,Sí,No,Sí,No
+64,Alumno 65,1,A,Callao,15,9,13,6,7,17,15,12,No,No,Sí,No,Sí
+65,Alumno 66,1,B,Ventanilla,5,11,15,16,8,14,15,12,No,No,Sí,Sí,Sí
+66,Alumno 67,1,A,Los Olivos,14,16,18,17,6,12,11,12,No,Sí,No,Sí,Sí
+67,Alumno 68,1,B,Puente Piedra,16,8,18,19,13,19,20,12,No,No,No,Sí,Sí
+68,Alumno 69,1,A,Puente Piedra,10,17,13,16,14,20,18,12,Sí,Sí,No,Sí,No
+69,Alumno 70,1,B,Puente Piedra,19,8,8,11,16,10,17,12,Sí,Sí,Sí,No,Sí
+70,Alumno 71,1,A,Los Olivos,6,8,15,16,15,12,15,12,No,Sí,Sí,No,Sí
+71,Alumno 72,1,B,Los Olivos,17,16,8,14,18,18,6,12,No,No,Sí,No,Sí
+72,Alumno 73,1,A,Ventanilla,7,10,16,8,11,14,11,12,Sí,Sí,Sí,No,Sí
+73,Alumno 74,1,B,Ventanilla,20,11,12,14,11,19,19,12,Sí,No,Sí,No,No
+74,Alumno 75,1,A,Ventanilla,5,6,6,12,19,11,5,12,Sí,No,Sí,Sí,Sí
+75,Alumno 76,1,B,Callao,13,19,13,13,10,16,9,12,Sí,No,No,No,Sí
+76,Alumno 77,1,A,Puente Piedra,12,9,17,11,19,11,13,12,Sí,No,Sí,No,Sí
+77,Alumno 78,1,B,Puente Piedra,16,8,18,9,7,13,11,12,No,Sí,Sí,Sí,Sí
+78,Alumno 79,1,A,Ventanilla,6,19,10,12,10,16,11,12,Sí,Sí,Sí,Sí,Sí
+79,Alumno 80,1,B,Puente Piedra,19,18,13,20,19,13,15,12,Sí,Sí,Sí,No,Sí
+80,Alumno 81,1,A,Ventanilla,16,20,12,8,18,16,17,12,No,Sí,Sí,Sí,No
+81,Alumno 82,1,B,Callao,20,17,19,6,16,16,16,12,No,No,No,No,No
+82,Alumno 83,1,A,Callao,15,7,19,15,12,10,6,12,No,No,No,No,No
+83,Alumno 84,1,B,Los Olivos,12,11,11,19,12,15,12,12,No,No,Sí,No,No
+84,Alumno 85,1,A,Callao,16,15,20,20,15,18,7,12,No,Sí,No,Sí,No
+85,Alumno 86,1,B,Ventanilla,18,16,17,16,17,11,19,12,No,Sí,No,No,Sí
+86,Alumno 87,1,A,Callao,13,10,18,10,13,12,12,12,No,Sí,No,No,Sí
+87,Alumno 88,1,B,Los Olivos,5,18,5,13,19,19,7,12,No,Sí,No,No,No
+88,Alumno 89,1,A,Puente Piedra,17,11,20,5,5,14,14,12,Sí,No,No,Sí,Sí
+89,Alumno 90,1,B,Ventanilla,9,9,18,15,18,18,11,12,Sí,No,No,Sí,No
+90,Alumno 91,1,A,Puente Piedra,12,17,16,14,5,13,6,12,No,Sí,Sí,No,No
+91,Alumno 92,1,B,Los Olivos,19,10,7,16,7,10,20,12,Sí,Sí,Sí,Sí,Sí
+92,Alumno 93,1,A,Los Olivos,15,9,15,11,7,13,8,12,No,No,Sí,Sí,Sí
+93,Alumno 94,1,B,Los Olivos,18,18,20,14,14,15,15,12,No,No,No,No,No
+94,Alumno 95,1,A,Puente Piedra,6,11,18,13,12,14,10,12,Sí,No,No,No,No
+95,Alumno 96,1,B,Puente Piedra,8,6,6,14,19,10,15,12,Sí,Sí,No,Sí,Sí
+96,Alumno 97,1,A,Puente Piedra,11,18,9,13,14,13,13,12,No,Sí,Sí,No,Sí
+97,Alumno 98,1,B,Puente Piedra,7,15,19,14,5,15,9,12,Sí,Sí,Sí,No,Sí
+98,Alumno 99,1,A,Los Olivos,17,9,9,15,17,19,17,12,Sí,Sí,Sí,Sí,No
+99,Alumno 100,1,B,Los Olivos,20,10,9,17,6,19,13,12,No,Sí,No,No,No
+100,Alumno 101,2,A,Ventanilla,16,10,20,7,6,13,19,13,No,No,Sí,Sí,Sí
+101,Alumno 102,2,B,Ventanilla,9,19,8,15,7,18,9,13,Sí,No,Sí,No,Sí
+102,Alumno 103,2,A,Puente Piedra,12,9,9,17,17,14,14,13,No,Sí,No,Sí,No
+103,Alumno 104,2,B,Callao,16,14,7,9,10,17,12,13,Sí,Sí,No,No,No
+104,Alumno 105,2,A,Callao,14,11,16,12,5,18,20,13,No,Sí,No,No,Sí
+105,Alumno 106,2,B,Los Olivos,7,14,5,12,6,19,17,13,No,No,No,Sí,Sí
+106,Alumno 107,2,A,Los Olivos,8,12,9,8,17,14,17,13,Sí,Sí,Sí,No,Sí
+107,Alumno 108,2,B,Los Olivos,18,11,17,19,20,15,5,13,Sí,Sí,No,No,Sí
+108,Alumno 109,2,A,Ventanilla,19,9,13,19,19,10,11,13,No,Sí,Sí,No,No
+109,Alumno 110,2,B,Ventanilla,13,5,17,16,17,20,8,13,No,Sí,No,No,Sí
+110,Alumno 111,2,A,Los Olivos,18,17,13,15,20,16,9,13,Sí,No,Sí,Sí,No
+111,Alumno 112,2,B,Los Olivos,18,9,8,15,5,13,10,13,Sí,Sí,No,No,Sí
+112,Alumno 113,2,A,Los Olivos,11,14,7,5,9,20,9,13,No,No,Sí,No,Sí
+113,Alumno 114,2,B,Callao,5,6,5,5,20,11,16,13,Sí,Sí,No,Sí,Sí
+114,Alumno 115,2,A,Ventanilla,18,17,6,19,17,14,5,13,Sí,Sí,No,Sí,No
+115,Alumno 116,2,B,Callao,16,9,12,8,17,12,16,13,No,Sí,Sí,No,No
+116,Alumno 117,2,A,Callao,8,9,20,10,11,15,13,13,No,Sí,No,No,Sí
+117,Alumno 118,2,B,Los Olivos,8,6,5,12,20,17,6,13,No,No,No,Sí,No
+118,Alumno 119,2,A,Los Olivos,13,9,12,10,12,16,13,13,Sí,Sí,No,No,No
+119,Alumno 120,2,B,Puente Piedra,10,17,17,16,14,12,14,13,Sí,No,Sí,No,No
+120,Alumno 121,2,A,Puente Piedra,20,20,11,13,5,17,6,13,Sí,No,No,No,No
+121,Alumno 122,2,B,Callao,13,8,19,19,11,11,13,13,Sí,No,No,Sí,Sí
+122,Alumno 123,2,A,Ventanilla,16,5,12,19,17,19,10,13,Sí,Sí,Sí,No,Sí
+123,Alumno 124,2,B,Los Olivos,19,7,16,13,9,18,15,13,No,Sí,Sí,No,No
+124,Alumno 125,2,A,Los Olivos,10,5,10,18,14,13,13,13,Sí,Sí,Sí,No,No
+125,Alumno 126,2,B,Callao,10,16,16,6,5,10,17,13,Sí,No,Sí,No,No
+126,Alumno 127,2,A,Puente Piedra,9,15,18,14,7,17,10,13,No,Sí,No,No,Sí
+127,Alumno 128,2,B,Ventanilla,9,19,19,5,11,16,10,13,Sí,No,Sí,No,Sí
+128,Alumno 129,2,A,Puente Piedra,6,9,19,6,14,20,17,13,Sí,Sí,Sí,Sí,No
+129,Alumno 130,2,B,Puente Piedra,12,8,13,9,5,14,15,13,Sí,Sí,Sí,Sí,No
+130,Alumno 131,2,A,Puente Piedra,12,20,7,8,11,19,18,13,No,No,No,No,No
+131,Alumno 132,2,B,Puente Piedra,15,11,14,8,9,14,6,13,No,Sí,No,Sí,No
+132,Alumno 133,2,A,Los Olivos,20,9,8,13,5,16,12,13,No,Sí,No,Sí,No
+133,Alumno 134,2,B,Los Olivos,17,14,17,15,5,14,7,13,No,No,No,No,Sí
+134,Alumno 135,2,A,Puente Piedra,5,18,10,12,18,17,11,13,No,No,Sí,No,Sí
+135,Alumno 136,2,B,Ventanilla,12,8,12,10,5,20,9,13,No,No,No,Sí,No
+136,Alumno 137,2,A,Callao,9,6,9,5,15,15,7,13,Sí,No,Sí,Sí,Sí
+137,Alumno 138,2,B,Ventanilla,6,8,7,6,13,14,5,13,Sí,No,Sí,No,Sí
+138,Alumno 139,2,A,Ventanilla,18,20,10,10,15,18,12,13,Sí,Sí,Sí,No,No
+139,Alumno 140,2,B,Ventanilla,20,16,8,15,17,20,7,13,No,No,No,Sí,No
+140,Alumno 141,2,A,Puente Piedra,6,6,13,6,7,11,6,13,Sí,Sí,No,No,No
+141,Alumno 142,2,B,Los Olivos,18,12,17,19,19,10,20,13,No,No,No,Sí,No
+142,Alumno 143,2,A,Ventanilla,19,7,7,20,17,17,5,13,Sí,Sí,Sí,Sí,Sí
+143,Alumno 144,2,B,Puente Piedra,19,13,8,17,9,12,8,13,Sí,Sí,No,No,No
+144,Alumno 145,2,A,Ventanilla,10,17,11,14,15,20,17,13,Sí,No,Sí,Sí,Sí
+145,Alumno 146,2,B,Ventanilla,20,8,11,9,20,16,12,13,No,No,Sí,No,Sí
+146,Alumno 147,2,A,Puente Piedra,15,17,16,18,14,19,17,13,No,Sí,No,No,Sí
+147,Alumno 148,2,B,Los Olivos,17,10,16,9,16,20,7,13,No,Sí,Sí,No,No
+148,Alumno 149,2,A,Los Olivos,13,14,8,10,20,17,18,13,No,Sí,No,No,No
+149,Alumno 150,2,B,Callao,5,9,10,10,13,15,5,13,No,No,Sí,Sí,Sí
+150,Alumno 151,2,A,Puente Piedra,16,14,16,18,10,19,8,13,Sí,No,No,Sí,No
+151,Alumno 152,2,B,Callao,10,17,17,10,16,18,13,13,Sí,No,Sí,Sí,Sí
+152,Alumno 153,2,A,Callao,13,5,7,18,13,16,17,13,No,Sí,No,No,No
+153,Alumno 154,2,B,Callao,12,13,10,6,12,19,5,13,No,No,No,No,Sí
+154,Alumno 155,2,A,Los Olivos,15,20,16,18,12,14,16,13,Sí,Sí,Sí,No,Sí
+155,Alumno 156,2,B,Puente Piedra,10,5,6,14,5,17,18,13,Sí,No,No,No,No
+156,Alumno 157,2,A,Callao,7,12,12,18,17,11,15,13,No,Sí,No,No,Sí
+157,Alumno 158,2,B,Puente Piedra,12,13,6,17,13,16,6,13,No,Sí,Sí,Sí,No
+158,Alumno 159,2,A,Puente Piedra,13,13,15,19,10,13,13,13,No,No,Sí,Sí,No
+159,Alumno 160,2,B,Los Olivos,5,5,11,18,20,18,20,13,No,No,No,Sí,Sí
+160,Alumno 161,2,A,Callao,16,6,13,7,13,10,6,13,No,Sí,Sí,No,No
+161,Alumno 162,2,B,Callao,13,16,5,18,7,16,17,13,No,No,Sí,No,Sí
+162,Alumno 163,2,A,Puente Piedra,18,20,12,10,16,15,7,13,Sí,Sí,Sí,No,No
+163,Alumno 164,2,B,Ventanilla,20,17,11,17,7,17,11,13,No,No,Sí,No,Sí
+164,Alumno 165,2,A,Los Olivos,19,5,10,12,10,14,7,13,No,No,Sí,No,No
+165,Alumno 166,2,B,Los Olivos,20,14,10,16,13,10,13,13,Sí,No,No,No,Sí
+166,Alumno 167,2,A,Los Olivos,10,6,10,17,11,10,20,13,Sí,Sí,No,Sí,Sí
+167,Alumno 168,2,B,Los Olivos,10,14,13,15,18,18,10,13,Sí,Sí,Sí,Sí,Sí
+168,Alumno 169,2,A,Callao,16,20,6,16,17,19,7,13,No,No,Sí,Sí,Sí
+169,Alumno 170,2,B,Callao,8,16,5,5,7,15,13,13,No,No,No,No,Sí
+170,Alumno 171,2,A,Ventanilla,5,12,17,5,7,19,5,13,No,No,No,No,Sí
+171,Alumno 172,2,B,Los Olivos,14,9,16,20,6,14,14,13,Sí,No,No,No,Sí
+172,Alumno 173,2,A,Los Olivos,12,16,10,15,13,10,7,13,No,No,No,Sí,Sí
+173,Alumno 174,2,B,Puente Piedra,20,15,14,17,17,15,5,13,No,Sí,No,No,Sí
+174,Alumno 175,2,A,Callao,6,11,15,6,19,15,6,13,No,No,No,Sí,No
+175,Alumno 176,2,B,Los Olivos,16,6,12,15,7,12,20,13,No,No,Sí,No,No
+176,Alumno 177,2,A,Ventanilla,5,12,7,19,15,17,16,13,No,No,No,Sí,Sí
+177,Alumno 178,2,B,Ventanilla,6,15,16,16,9,10,12,13,No,Sí,Sí,No,No
+178,Alumno 179,2,A,Callao,5,10,14,16,18,10,11,13,Sí,No,Sí,Sí,No
+179,Alumno 180,2,B,Ventanilla,5,12,5,10,18,15,6,13,No,Sí,Sí,No,Sí
+180,Alumno 181,2,A,Ventanilla,13,5,13,13,13,19,6,13,No,Sí,No,Sí,Sí
+181,Alumno 182,2,B,Callao,17,19,17,20,12,10,13,13,No,No,Sí,Sí,Sí
+182,Alumno 183,2,A,Los Olivos,18,5,17,8,6,15,17,13,No,Sí,Sí,No,Sí
+183,Alumno 184,2,B,Los Olivos,5,16,5,7,7,10,17,13,Sí,No,No,No,No
+184,Alumno 185,2,A,Ventanilla,17,11,7,16,20,15,10,13,Sí,Sí,No,Sí,Sí
+185,Alumno 186,2,B,Ventanilla,8,12,12,20,20,12,9,13,Sí,Sí,Sí,Sí,Sí
+186,Alumno 187,2,A,Los Olivos,14,17,18,12,6,17,14,13,No,Sí,No,Sí,No
+187,Alumno 188,2,B,Callao,10,7,7,20,20,15,10,13,No,No,No,Sí,Sí
+188,Alumno 189,2,A,Ventanilla,11,9,20,15,12,20,20,13,No,No,Sí,No,No
+189,Alumno 190,2,B,Puente Piedra,6,20,17,14,10,10,13,13,No,No,No,No,Sí
+190,Alumno 191,2,A,Callao,10,16,8,18,10,14,20,13,Sí,Sí,No,No,No
+191,Alumno 192,2,B,Ventanilla,11,5,12,13,16,17,15,13,No,No,No,Sí,Sí
+192,Alumno 193,2,A,Ventanilla,14,11,5,16,19,12,11,13,Sí,Sí,No,No,Sí
+193,Alumno 194,2,B,Puente Piedra,18,9,17,15,13,15,19,13,No,Sí,No,Sí,No
+194,Alumno 195,2,A,Puente Piedra,14,12,17,9,12,14,14,13,Sí,No,No,No,No
+195,Alumno 196,2,B,Los Olivos,6,17,10,13,8,15,14,13,No,No,No,Sí,Sí
+196,Alumno 197,2,A,Callao,19,12,5,6,19,19,18,13,No,No,Sí,Sí,No
+197,Alumno 198,2,B,Callao,6,13,18,7,16,10,13,13,No,No,No,Sí,Sí
+198,Alumno 199,2,A,Los Olivos,14,11,5,11,8,16,8,13,No,No,No,No,No
+199,Alumno 200,2,B,Callao,11,15,18,11,13,18,6,13,Sí,Sí,No,No,Sí
+200,Alumno 201,3,A,Callao,16,5,12,10,5,11,16,14,No,No,Sí,No,No
+201,Alumno 202,3,B,Callao,5,17,15,10,17,19,12,14,No,No,Sí,No,No
+202,Alumno 203,3,A,Callao,12,7,8,6,6,14,8,14,No,No,Sí,Sí,Sí
+203,Alumno 204,3,B,Callao,15,12,16,14,6,19,17,14,Sí,No,No,Sí,No
+204,Alumno 205,3,A,Puente Piedra,17,7,5,10,17,13,13,14,Sí,No,No,Sí,No
+205,Alumno 206,3,B,Callao,7,12,14,8,17,15,19,14,No,No,No,No,No
+206,Alumno 207,3,A,Puente Piedra,15,5,11,16,10,15,19,14,Sí,Sí,Sí,No,Sí
+207,Alumno 208,3,B,Callao,10,9,9,7,19,20,8,14,Sí,No,Sí,Sí,Sí
+208,Alumno 209,3,A,Los Olivos,13,8,9,17,8,11,19,14,Sí,Sí,Sí,Sí,No
+209,Alumno 210,3,B,Ventanilla,10,9,5,15,20,11,12,14,No,Sí,Sí,Sí,Sí
+210,Alumno 211,3,A,Puente Piedra,13,12,20,17,17,13,13,14,Sí,Sí,No,Sí,Sí
+211,Alumno 212,3,B,Callao,11,14,18,6,15,10,17,14,Sí,Sí,Sí,No,No
+212,Alumno 213,3,A,Los Olivos,19,19,14,5,14,18,13,14,Sí,No,Sí,Sí,Sí
+213,Alumno 214,3,B,Ventanilla,20,18,15,15,17,16,14,14,No,No,No,No,Sí
+214,Alumno 215,3,A,Puente Piedra,13,8,10,15,7,16,8,14,Sí,No,Sí,No,No
+215,Alumno 216,3,B,Ventanilla,6,15,18,9,7,12,5,14,Sí,Sí,Sí,No,No
+216,Alumno 217,3,A,Los Olivos,16,8,13,20,7,20,20,14,Sí,Sí,No,No,No
+217,Alumno 218,3,B,Puente Piedra,12,19,13,6,10,12,19,14,Sí,Sí,No,Sí,Sí
+218,Alumno 219,3,A,Ventanilla,12,7,12,6,18,10,7,14,Sí,No,No,Sí,No
+219,Alumno 220,3,B,Callao,6,11,9,11,20,12,13,14,Sí,Sí,No,No,Sí
+220,Alumno 221,3,A,Puente Piedra,16,7,5,12,12,12,8,14,No,No,Sí,No,Sí
+221,Alumno 222,3,B,Ventanilla,18,16,13,17,15,13,9,14,No,No,Sí,Sí,Sí
+222,Alumno 223,3,A,Los Olivos,8,7,5,14,11,13,11,14,No,Sí,No,No,No
+223,Alumno 224,3,B,Los Olivos,18,15,12,12,18,12,9,14,No,No,Sí,Sí,Sí
+224,Alumno 225,3,A,Puente Piedra,19,14,9,18,8,19,8,14,Sí,Sí,No,Sí,Sí
+225,Alumno 226,3,B,Ventanilla,15,9,7,20,15,17,19,14,Sí,No,No,Sí,No
+226,Alumno 227,3,A,Puente Piedra,19,9,15,8,16,17,6,14,No,No,No,No,No
+227,Alumno 228,3,B,Puente Piedra,11,18,11,19,8,10,19,14,Sí,Sí,Sí,Sí,Sí
+228,Alumno 229,3,A,Ventanilla,15,10,11,18,15,16,6,14,Sí,No,No,No,Sí
+229,Alumno 230,3,B,Ventanilla,8,20,13,5,14,20,17,14,Sí,No,Sí,No,Sí
+230,Alumno 231,3,A,Callao,20,12,11,15,19,11,17,14,Sí,No,No,No,Sí
+231,Alumno 232,3,B,Ventanilla,8,20,17,11,15,10,8,14,No,No,Sí,No,No
+232,Alumno 233,3,A,Los Olivos,10,14,20,5,20,12,14,14,No,Sí,No,No,No
+233,Alumno 234,3,B,Puente Piedra,14,10,15,15,15,13,17,14,Sí,Sí,No,No,Sí
+234,Alumno 235,3,A,Puente Piedra,10,19,18,8,18,15,14,14,Sí,No,No,Sí,No
+235,Alumno 236,3,B,Los Olivos,14,20,7,12,15,19,17,14,Sí,Sí,Sí,Sí,No
+236,Alumno 237,3,A,Ventanilla,19,20,15,6,6,14,19,14,No,No,Sí,No,No
+237,Alumno 238,3,B,Los Olivos,7,16,17,10,18,13,13,14,No,No,No,Sí,Sí
+238,Alumno 239,3,A,Los Olivos,19,5,19,17,20,17,12,14,Sí,No,Sí,Sí,No
+239,Alumno 240,3,B,Callao,13,19,18,10,5,20,7,14,No,Sí,Sí,Sí,No
+240,Alumno 241,3,A,Los Olivos,16,12,17,16,13,13,20,14,Sí,Sí,No,Sí,No
+241,Alumno 242,3,B,Puente Piedra,14,20,5,13,16,19,19,14,No,Sí,Sí,No,Sí
+242,Alumno 243,3,A,Los Olivos,18,12,12,9,19,11,18,14,No,Sí,No,Sí,Sí
+243,Alumno 244,3,B,Puente Piedra,15,13,16,14,16,12,20,14,No,No,No,Sí,No
+244,Alumno 245,3,A,Puente Piedra,6,13,7,8,6,15,13,14,Sí,Sí,Sí,No,Sí
+245,Alumno 246,3,B,Puente Piedra,10,6,16,9,17,17,18,14,Sí,No,No,Sí,No
+246,Alumno 247,3,A,Ventanilla,16,19,12,16,12,17,9,14,Sí,Sí,No,No,Sí
+247,Alumno 248,3,B,Callao,11,6,12,20,19,20,15,14,Sí,Sí,No,No,No
+248,Alumno 249,3,A,Puente Piedra,16,7,17,16,20,18,7,14,No,Sí,Sí,No,Sí
+249,Alumno 250,3,B,Puente Piedra,17,5,9,14,13,16,9,14,Sí,Sí,No,Sí,No
+250,Alumno 251,3,A,Ventanilla,13,8,17,19,8,11,17,14,Sí,Sí,Sí,Sí,No
+251,Alumno 252,3,B,Puente Piedra,17,18,16,15,12,17,14,14,Sí,No,No,Sí,No
+252,Alumno 253,3,A,Los Olivos,7,8,17,9,13,16,17,14,Sí,Sí,No,No,Sí
+253,Alumno 254,3,B,Los Olivos,14,18,20,12,14,17,8,14,No,Sí,No,Sí,Sí
+254,Alumno 255,3,A,Callao,7,13,5,14,14,12,12,14,Sí,No,No,No,No
+255,Alumno 256,3,B,Puente Piedra,11,13,17,16,9,16,17,14,Sí,No,No,Sí,No
+256,Alumno 257,3,A,Ventanilla,18,13,14,12,20,19,16,14,Sí,Sí,Sí,Sí,Sí
+257,Alumno 258,3,B,Los Olivos,8,14,11,6,17,18,9,14,Sí,Sí,No,Sí,No
+258,Alumno 259,3,A,Ventanilla,17,11,16,11,18,12,14,14,No,Sí,No,Sí,Sí
+259,Alumno 260,3,B,Ventanilla,12,18,14,12,11,19,16,14,Sí,No,Sí,Sí,Sí
+260,Alumno 261,3,A,Los Olivos,17,19,9,20,20,15,12,14,No,No,No,Sí,Sí
+261,Alumno 262,3,B,Ventanilla,11,6,12,15,14,11,13,14,Sí,Sí,Sí,No,Sí
+262,Alumno 263,3,A,Los Olivos,9,14,13,10,8,11,8,14,Sí,No,No,Sí,No
+263,Alumno 264,3,B,Ventanilla,11,9,15,9,5,14,11,14,No,Sí,Sí,Sí,No
+264,Alumno 265,3,A,Los Olivos,20,8,18,15,7,14,6,14,Sí,No,No,Sí,Sí
+265,Alumno 266,3,B,Puente Piedra,7,16,11,13,9,16,10,14,No,Sí,Sí,No,No
+266,Alumno 267,3,A,Callao,16,15,18,17,7,11,12,14,No,No,Sí,No,No
+267,Alumno 268,3,B,Los Olivos,6,12,17,7,20,20,16,14,No,No,Sí,Sí,No
+268,Alumno 269,3,A,Los Olivos,10,6,19,16,16,16,11,14,Sí,No,No,No,Sí
+269,Alumno 270,3,B,Callao,6,10,11,17,17,14,11,14,Sí,No,No,Sí,Sí
+270,Alumno 271,3,A,Los Olivos,7,17,5,17,15,15,12,14,Sí,No,Sí,No,Sí
+271,Alumno 272,3,B,Los Olivos,10,9,19,14,11,17,20,14,Sí,No,No,No,No
+272,Alumno 273,3,A,Ventanilla,9,20,8,8,16,19,11,14,No,No,No,No,Sí
+273,Alumno 274,3,B,Callao,20,19,6,13,13,13,9,14,Sí,Sí,No,Sí,No
+274,Alumno 275,3,A,Puente Piedra,12,20,6,10,19,16,11,14,Sí,Sí,No,Sí,Sí
+275,Alumno 276,3,B,Los Olivos,13,20,6,12,16,15,17,14,Sí,Sí,Sí,Sí,No
+276,Alumno 277,3,A,Callao,15,20,8,11,10,19,18,14,Sí,Sí,Sí,No,Sí
+277,Alumno 278,3,B,Ventanilla,7,16,18,15,17,11,14,14,Sí,No,Sí,No,No
+278,Alumno 279,3,A,Puente Piedra,16,6,5,6,14,17,7,14,Sí,Sí,Sí,No,Sí
+279,Alumno 280,3,B,Callao,14,15,19,7,5,19,9,14,Sí,No,Sí,No,No
+280,Alumno 281,3,A,Puente Piedra,7,14,8,5,20,18,11,14,No,Sí,Sí,No,No
+281,Alumno 282,3,B,Puente Piedra,7,19,6,20,11,14,19,14,Sí,Sí,Sí,No,Sí
+282,Alumno 283,3,A,Puente Piedra,17,5,9,13,19,19,13,14,No,Sí,Sí,Sí,Sí
+283,Alumno 284,3,B,Los Olivos,17,12,7,17,7,13,19,14,No,Sí,No,No,Sí
+284,Alumno 285,3,A,Los Olivos,10,6,19,11,9,15,6,14,Sí,Sí,Sí,Sí,Sí
+285,Alumno 286,3,B,Ventanilla,19,11,16,5,20,17,8,14,No,Sí,Sí,No,Sí
+286,Alumno 287,3,A,Ventanilla,19,13,12,7,14,20,16,14,Sí,No,No,No,Sí
+287,Alumno 288,3,B,Callao,5,13,8,8,8,12,11,14,Sí,No,No,No,Sí
+288,Alumno 289,3,A,Ventanilla,11,12,5,8,14,19,5,14,Sí,Sí,No,Sí,No
+289,Alumno 290,3,B,Puente Piedra,16,15,5,9,9,20,17,14,Sí,No,No,No,Sí
+290,Alumno 291,3,A,Puente Piedra,5,18,16,18,9,20,6,14,No,No,Sí,No,Sí
+291,Alumno 292,3,B,Los Olivos,18,16,14,7,10,10,13,14,Sí,Sí,No,Sí,Sí
+292,Alumno 293,3,A,Puente Piedra,9,14,7,7,18,13,17,14,No,No,No,No,Sí
+293,Alumno 294,3,B,Callao,19,13,19,5,14,13,14,14,Sí,No,No,No,No
+294,Alumno 295,3,A,Puente Piedra,14,6,13,11,16,10,11,14,Sí,Sí,Sí,Sí,No
+295,Alumno 296,3,B,Puente Piedra,17,10,11,15,14,18,16,14,No,Sí,Sí,Sí,Sí
+296,Alumno 297,3,A,Callao,12,8,6,14,17,12,14,14,No,Sí,No,No,Sí
+297,Alumno 298,3,B,Ventanilla,8,18,19,18,17,14,11,14,No,Sí,Sí,No,Sí
+298,Alumno 299,3,A,Ventanilla,9,8,17,5,15,15,10,14,Sí,No,No,Sí,Sí
+299,Alumno 300,3,B,Callao,8,9,13,6,10,17,7,14,Sí,No,No,No,Sí
+300,Alumno 301,4,A,Los Olivos,16,16,14,17,20,15,14,15,Sí,No,Sí,Sí,No
+301,Alumno 302,4,B,Puente Piedra,16,20,6,8,12,12,7,15,No,Sí,No,No,Sí
+302,Alumno 303,4,A,Callao,18,7,7,17,12,15,6,15,No,No,Sí,No,No
+303,Alumno 304,4,B,Puente Piedra,8,18,15,8,15,10,15,15,No,No,No,No,Sí
+304,Alumno 305,4,A,Los Olivos,16,5,17,9,13,13,10,15,Sí,Sí,Sí,No,Sí
+305,Alumno 306,4,B,Puente Piedra,12,12,14,15,12,15,8,15,No,Sí,Sí,No,Sí
+306,Alumno 307,4,A,Callao,6,9,18,6,17,16,20,15,No,Sí,Sí,No,No
+307,Alumno 308,4,B,Puente Piedra,5,7,6,8,15,20,9,15,No,No,No,No,Sí
+308,Alumno 309,4,A,Ventanilla,7,14,7,5,6,20,7,15,No,Sí,No,No,No
+309,Alumno 310,4,B,Los Olivos,20,20,10,6,18,19,10,15,Sí,Sí,No,No,Sí
+310,Alumno 311,4,A,Los Olivos,13,18,13,5,18,12,15,15,Sí,No,Sí,Sí,Sí
+311,Alumno 312,4,B,Los Olivos,8,11,13,14,16,18,16,15,Sí,Sí,No,Sí,No
+312,Alumno 313,4,A,Callao,14,11,11,14,14,16,7,15,Sí,No,Sí,Sí,No
+313,Alumno 314,4,B,Los Olivos,9,5,16,17,16,10,18,15,No,Sí,No,No,Sí
+314,Alumno 315,4,A,Ventanilla,6,16,7,8,15,11,19,15,No,Sí,Sí,Sí,Sí
+315,Alumno 316,4,B,Callao,20,13,8,8,19,10,18,15,Sí,No,Sí,Sí,No
+316,Alumno 317,4,A,Ventanilla,8,19,10,11,20,20,20,15,No,Sí,No,Sí,No
+317,Alumno 318,4,B,Puente Piedra,6,6,15,14,5,18,20,15,Sí,Sí,Sí,Sí,Sí
+318,Alumno 319,4,A,Puente Piedra,19,9,9,15,14,18,12,15,Sí,Sí,Sí,Sí,No
+319,Alumno 320,4,B,Puente Piedra,6,17,6,15,6,16,13,15,No,No,No,Sí,Sí
+320,Alumno 321,4,A,Puente Piedra,8,18,17,13,6,19,8,15,No,No,No,No,Sí
+321,Alumno 322,4,B,Ventanilla,10,9,10,13,16,12,19,15,Sí,Sí,No,No,Sí
+322,Alumno 323,4,A,Callao,11,18,7,9,7,14,13,15,Sí,No,No,No,Sí
+323,Alumno 324,4,B,Callao,14,12,20,14,14,13,16,15,Sí,Sí,Sí,Sí,No
+324,Alumno 325,4,A,Los Olivos,7,18,18,5,11,16,11,15,No,Sí,No,Sí,No
+325,Alumno 326,4,B,Ventanilla,7,12,12,5,6,18,7,15,No,No,Sí,No,No
+326,Alumno 327,4,A,Puente Piedra,14,18,6,10,18,11,11,15,Sí,Sí,Sí,Sí,No
+327,Alumno 328,4,B,Ventanilla,10,11,5,6,20,17,18,15,Sí,Sí,No,Sí,No
+328,Alumno 329,4,A,Los Olivos,17,11,13,12,5,18,5,15,No,No,Sí,No,No
+329,Alumno 330,4,B,Los Olivos,16,16,18,17,20,19,7,15,Sí,No,No,No,Sí
+330,Alumno 331,4,A,Ventanilla,7,20,16,13,18,19,10,15,No,Sí,Sí,Sí,Sí
+331,Alumno 332,4,B,Ventanilla,17,15,7,17,10,18,8,15,Sí,Sí,No,No,Sí
+332,Alumno 333,4,A,Ventanilla,6,20,15,8,13,19,11,15,No,Sí,Sí,No,No
+333,Alumno 334,4,B,Callao,12,10,5,9,19,16,18,15,Sí,No,No,Sí,No
+334,Alumno 335,4,A,Puente Piedra,9,10,11,20,7,18,7,15,Sí,Sí,Sí,No,No
+335,Alumno 336,4,B,Ventanilla,19,15,17,15,10,18,5,15,Sí,Sí,Sí,Sí,Sí
+336,Alumno 337,4,A,Ventanilla,5,13,19,12,7,12,13,15,No,Sí,Sí,No,No
+337,Alumno 338,4,B,Ventanilla,7,10,14,7,18,13,20,15,No,No,No,No,Sí
+338,Alumno 339,4,A,Los Olivos,14,16,9,9,17,11,19,15,Sí,Sí,Sí,No,Sí
+339,Alumno 340,4,B,Los Olivos,12,17,9,7,5,19,10,15,No,Sí,Sí,Sí,Sí
+340,Alumno 341,4,A,Callao,8,17,18,16,18,12,12,15,Sí,No,No,No,Sí
+341,Alumno 342,4,B,Puente Piedra,20,6,5,14,17,20,7,15,Sí,No,No,No,No
+342,Alumno 343,4,A,Callao,18,6,19,7,20,20,12,15,No,Sí,No,Sí,No
+343,Alumno 344,4,B,Puente Piedra,11,17,19,7,16,14,6,15,Sí,No,No,No,No
+344,Alumno 345,4,A,Los Olivos,14,9,13,17,9,14,16,15,No,Sí,No,No,No
+345,Alumno 346,4,B,Los Olivos,16,19,11,16,14,15,20,15,Sí,No,No,No,Sí
+346,Alumno 347,4,A,Los Olivos,18,8,12,11,18,16,8,15,No,Sí,No,No,No
+347,Alumno 348,4,B,Callao,18,15,13,19,17,16,7,15,No,Sí,Sí,Sí,No
+348,Alumno 349,4,A,Ventanilla,6,6,10,11,15,10,14,15,Sí,Sí,Sí,Sí,No
+349,Alumno 350,4,B,Ventanilla,11,19,16,11,8,11,5,15,No,No,Sí,No,No
+350,Alumno 351,4,A,Los Olivos,9,19,9,14,11,18,19,15,No,No,Sí,No,Sí
+351,Alumno 352,4,B,Ventanilla,9,7,10,12,10,19,17,15,Sí,Sí,Sí,No,Sí
+352,Alumno 353,4,A,Ventanilla,10,11,15,9,14,11,17,15,No,No,No,Sí,Sí
+353,Alumno 354,4,B,Callao,17,12,6,9,11,15,11,15,Sí,No,No,No,Sí
+354,Alumno 355,4,A,Puente Piedra,13,16,8,18,9,20,15,15,Sí,No,Sí,No,No
+355,Alumno 356,4,B,Los Olivos,18,17,7,8,19,20,14,15,No,Sí,No,No,Sí
+356,Alumno 357,4,A,Los Olivos,10,10,17,11,19,10,6,15,Sí,Sí,Sí,No,Sí
+357,Alumno 358,4,B,Callao,16,15,11,14,8,12,8,15,Sí,No,Sí,No,Sí
+358,Alumno 359,4,A,Callao,17,9,13,8,20,11,13,15,Sí,No,No,Sí,No
+359,Alumno 360,4,B,Ventanilla,19,17,9,19,11,12,10,15,No,No,Sí,No,Sí
+360,Alumno 361,4,A,Los Olivos,18,5,10,6,11,14,12,15,Sí,Sí,No,No,No
+361,Alumno 362,4,B,Puente Piedra,12,12,14,8,10,20,6,15,No,Sí,Sí,Sí,Sí
+362,Alumno 363,4,A,Callao,11,7,18,17,12,19,11,15,No,Sí,No,Sí,No
+363,Alumno 364,4,B,Puente Piedra,13,19,16,17,8,15,10,15,No,No,Sí,No,No
+364,Alumno 365,4,A,Puente Piedra,8,10,16,12,14,18,17,15,No,Sí,Sí,Sí,Sí
+365,Alumno 366,4,B,Los Olivos,6,7,6,13,9,20,18,15,No,No,No,Sí,No
+366,Alumno 367,4,A,Los Olivos,11,11,20,20,8,19,13,15,Sí,Sí,No,Sí,Sí
+367,Alumno 368,4,B,Callao,10,17,7,7,16,13,11,15,Sí,Sí,No,Sí,No
+368,Alumno 369,4,A,Los Olivos,5,18,7,20,5,16,5,15,No,No,No,No,No
+369,Alumno 370,4,B,Los Olivos,15,11,16,11,16,15,18,15,No,Sí,No,Sí,Sí
+370,Alumno 371,4,A,Los Olivos,13,16,16,18,12,11,12,15,No,Sí,No,Sí,Sí
+371,Alumno 372,4,B,Puente Piedra,13,19,19,16,5,19,15,15,No,No,Sí,Sí,Sí
+372,Alumno 373,4,A,Callao,16,13,13,18,9,20,14,15,No,No,Sí,Sí,Sí
+373,Alumno 374,4,B,Ventanilla,6,20,19,13,19,20,19,15,No,Sí,Sí,Sí,Sí
+374,Alumno 375,4,A,Puente Piedra,7,9,11,15,10,20,7,15,No,Sí,No,Sí,No
+375,Alumno 376,4,B,Los Olivos,9,19,12,8,10,17,18,15,No,Sí,Sí,No,No
+376,Alumno 377,4,A,Puente Piedra,9,12,15,14,17,16,6,15,Sí,No,No,No,No
+377,Alumno 378,4,B,Los Olivos,19,14,20,19,9,16,16,15,Sí,Sí,No,No,Sí
+378,Alumno 379,4,A,Los Olivos,5,14,20,7,20,17,7,15,Sí,Sí,No,No,Sí
+379,Alumno 380,4,B,Puente Piedra,12,20,14,9,7,20,15,15,No,No,No,No,No
+380,Alumno 381,4,A,Callao,16,12,15,5,19,10,10,15,Sí,Sí,Sí,Sí,No
+381,Alumno 382,4,B,Los Olivos,12,5,13,7,9,10,17,15,Sí,No,No,No,Sí
+382,Alumno 383,4,A,Callao,8,16,10,19,16,17,18,15,No,Sí,No,Sí,Sí
+383,Alumno 384,4,B,Ventanilla,17,9,8,12,12,13,7,15,Sí,Sí,No,No,No
+384,Alumno 385,4,A,Los Olivos,11,7,16,15,18,14,14,15,No,No,Sí,No,No
+385,Alumno 386,4,B,Callao,19,5,5,12,6,17,20,15,Sí,No,Sí,No,Sí
+386,Alumno 387,4,A,Callao,19,8,12,19,20,14,9,15,Sí,Sí,No,No,No
+387,Alumno 388,4,B,Ventanilla,15,12,11,17,10,19,10,15,Sí,Sí,No,No,Sí
+388,Alumno 389,4,A,Callao,14,7,6,8,13,13,12,15,No,No,Sí,No,No
+389,Alumno 390,4,B,Callao,7,20,12,6,12,15,11,15,Sí,No,No,Sí,Sí
+390,Alumno 391,4,A,Ventanilla,10,20,16,17,18,14,18,15,No,Sí,Sí,No,Sí
+391,Alumno 392,4,B,Los Olivos,18,14,9,12,15,16,15,15,No,Sí,No,Sí,No
+392,Alumno 393,4,A,Callao,20,6,11,12,12,19,12,15,No,No,No,Sí,No
+393,Alumno 394,4,B,Callao,14,15,8,14,12,16,7,15,Sí,Sí,Sí,Sí,Sí
+394,Alumno 395,4,A,Callao,17,13,9,8,19,13,8,15,Sí,No,No,Sí,No
+395,Alumno 396,4,B,Puente Piedra,14,14,12,7,17,14,20,15,No,No,Sí,No,Sí
+396,Alumno 397,4,A,Ventanilla,16,9,5,6,11,12,20,15,Sí,No,Sí,No,Sí
+397,Alumno 398,4,B,Puente Piedra,18,20,5,13,12,13,10,15,No,No,Sí,No,Sí
+398,Alumno 399,4,A,Ventanilla,13,18,19,5,17,13,15,15,Sí,No,Sí,Sí,Sí
+399,Alumno 400,4,B,Los Olivos,5,11,8,11,10,12,11,15,Sí,No,Sí,Sí,Sí
+400,Alumno 401,5,A,Los Olivos,9,15,7,9,6,19,13,16,No,Sí,No,Sí,Sí
+401,Alumno 402,5,B,Callao,8,15,17,12,6,14,17,16,No,No,Sí,No,No
+402,Alumno 403,5,A,Ventanilla,12,6,14,8,12,14,5,16,Sí,No,No,Sí,Sí
+403,Alumno 404,5,B,Los Olivos,15,13,16,11,15,20,17,16,Sí,No,No,No,Sí
+404,Alumno 405,5,A,Ventanilla,16,20,6,17,5,16,19,16,Sí,Sí,Sí,No,No
+405,Alumno 406,5,B,Los Olivos,5,17,16,9,10,13,12,16,Sí,Sí,No,Sí,No
+406,Alumno 407,5,A,Puente Piedra,13,13,7,19,17,13,12,16,Sí,Sí,No,Sí,Sí
+407,Alumno 408,5,B,Los Olivos,20,8,15,18,20,18,10,16,Sí,Sí,Sí,No,Sí
+408,Alumno 409,5,A,Puente Piedra,10,8,19,9,10,15,8,16,No,Sí,No,No,No
+409,Alumno 410,5,B,Los Olivos,8,10,19,18,20,13,7,16,Sí,Sí,No,No,Sí
+410,Alumno 411,5,A,Callao,16,14,15,13,15,11,15,16,No,No,No,No,Sí
+411,Alumno 412,5,B,Puente Piedra,13,14,18,13,8,15,7,16,No,Sí,Sí,No,No
+412,Alumno 413,5,A,Los Olivos,15,14,15,17,16,11,10,16,No,Sí,No,Sí,No
+413,Alumno 414,5,B,Callao,9,10,5,13,15,14,17,16,Sí,No,Sí,No,Sí
+414,Alumno 415,5,A,Puente Piedra,19,16,5,16,17,15,12,16,Sí,Sí,No,Sí,No
+415,Alumno 416,5,B,Callao,9,5,10,10,19,13,11,16,No,No,Sí,No,No
+416,Alumno 417,5,A,Ventanilla,16,18,20,10,15,12,15,16,No,Sí,Sí,Sí,Sí
+417,Alumno 418,5,B,Ventanilla,9,18,9,9,20,16,5,16,Sí,Sí,No,Sí,Sí
+418,Alumno 419,5,A,Puente Piedra,5,13,12,13,17,11,15,16,No,Sí,Sí,No,No
+419,Alumno 420,5,B,Los Olivos,5,6,6,14,14,20,20,16,No,No,Sí,No,No
+420,Alumno 421,5,A,Puente Piedra,12,9,20,12,7,15,10,16,Sí,Sí,Sí,Sí,Sí
+421,Alumno 422,5,B,Callao,16,13,8,11,17,13,11,16,Sí,Sí,No,Sí,Sí
+422,Alumno 423,5,A,Los Olivos,12,8,12,11,15,15,16,16,Sí,No,Sí,Sí,No
+423,Alumno 424,5,B,Ventanilla,16,15,16,10,7,13,11,16,Sí,No,Sí,Sí,No
+424,Alumno 425,5,A,Los Olivos,19,20,10,9,19,13,13,16,Sí,Sí,No,No,Sí
+425,Alumno 426,5,B,Ventanilla,19,7,5,17,19,13,15,16,Sí,Sí,Sí,Sí,No
+426,Alumno 427,5,A,Los Olivos,10,19,19,8,20,18,15,16,No,Sí,Sí,Sí,Sí
+427,Alumno 428,5,B,Los Olivos,16,11,8,7,17,16,14,16,No,Sí,Sí,No,No
+428,Alumno 429,5,A,Los Olivos,15,10,5,20,17,12,9,16,Sí,Sí,Sí,Sí,Sí
+429,Alumno 430,5,B,Callao,17,12,17,7,5,12,5,16,Sí,Sí,No,No,No
+430,Alumno 431,5,A,Callao,8,7,6,10,7,15,6,16,Sí,Sí,No,Sí,Sí
+431,Alumno 432,5,B,Puente Piedra,6,9,9,19,8,15,19,16,Sí,No,No,Sí,No
+432,Alumno 433,5,A,Puente Piedra,18,14,18,8,15,13,8,16,No,No,No,Sí,No
+433,Alumno 434,5,B,Ventanilla,6,8,12,16,15,18,9,16,Sí,Sí,No,Sí,No
+434,Alumno 435,5,A,Callao,13,19,12,16,9,13,13,16,No,Sí,Sí,Sí,No
+435,Alumno 436,5,B,Ventanilla,19,17,15,10,7,18,15,16,No,No,Sí,No,Sí
+436,Alumno 437,5,A,Puente Piedra,9,8,7,7,10,13,19,16,No,Sí,Sí,No,No
+437,Alumno 438,5,B,Ventanilla,8,8,15,19,15,11,5,16,No,No,Sí,No,Sí
+438,Alumno 439,5,A,Puente Piedra,14,14,17,8,18,11,7,16,No,Sí,Sí,Sí,No
+439,Alumno 440,5,B,Callao,17,12,8,19,19,14,20,16,No,Sí,No,Sí,Sí
+440,Alumno 441,5,A,Los Olivos,5,10,14,13,16,13,9,16,No,No,No,Sí,Sí
+441,Alumno 442,5,B,Callao,11,7,15,9,20,16,20,16,Sí,Sí,Sí,No,No
+442,Alumno 443,5,A,Ventanilla,7,14,18,17,9,20,20,16,Sí,No,Sí,No,No
+443,Alumno 444,5,B,Ventanilla,10,9,10,11,7,14,7,16,No,Sí,Sí,Sí,No
+444,Alumno 445,5,A,Callao,9,10,15,14,10,15,8,16,Sí,Sí,No,No,No
+445,Alumno 446,5,B,Callao,9,9,20,6,10,19,19,16,Sí,No,No,No,No
+446,Alumno 447,5,A,Puente Piedra,15,10,15,18,19,13,18,16,No,Sí,No,No,Sí
+447,Alumno 448,5,B,Ventanilla,9,12,14,18,18,11,7,16,No,No,Sí,Sí,Sí
+448,Alumno 449,5,A,Ventanilla,5,11,7,9,12,19,8,16,Sí,Sí,Sí,No,Sí
+449,Alumno 450,5,B,Callao,5,9,6,13,6,18,18,16,Sí,No,Sí,No,No
+450,Alumno 451,5,A,Los Olivos,7,14,10,20,5,19,19,16,No,Sí,No,No,No
+451,Alumno 452,5,B,Ventanilla,18,10,15,15,20,16,20,16,No,No,No,Sí,Sí
+452,Alumno 453,5,A,Los Olivos,16,18,17,7,8,13,17,16,Sí,No,No,Sí,No
+453,Alumno 454,5,B,Callao,14,8,19,18,20,12,17,16,Sí,No,Sí,No,Sí
+454,Alumno 455,5,A,Callao,8,16,9,13,11,19,19,16,Sí,Sí,No,Sí,Sí
+455,Alumno 456,5,B,Puente Piedra,9,13,18,18,19,12,19,16,No,No,Sí,No,No
+456,Alumno 457,5,A,Ventanilla,6,17,14,20,20,18,5,16,Sí,Sí,No,No,No
+457,Alumno 458,5,B,Los Olivos,12,8,9,15,15,14,16,16,Sí,Sí,No,No,Sí
+458,Alumno 459,5,A,Puente Piedra,15,5,14,19,14,12,12,16,Sí,Sí,No,Sí,No
+459,Alumno 460,5,B,Ventanilla,15,11,17,10,7,14,8,16,Sí,Sí,Sí,No,No
+460,Alumno 461,5,A,Puente Piedra,18,11,9,8,7,11,11,16,No,Sí,Sí,Sí,No
+461,Alumno 462,5,B,Callao,6,8,14,11,20,20,6,16,No,Sí,No,Sí,Sí
+462,Alumno 463,5,A,Ventanilla,13,17,16,20,9,13,6,16,No,No,No,Sí,Sí
+463,Alumno 464,5,B,Puente Piedra,6,18,9,12,9,19,10,16,Sí,No,No,Sí,No
+464,Alumno 465,5,A,Puente Piedra,17,7,7,10,17,11,18,16,No,No,No,No,Sí
+465,Alumno 466,5,B,Los Olivos,13,12,11,9,14,11,6,16,Sí,Sí,Sí,Sí,No
+466,Alumno 467,5,A,Puente Piedra,11,9,10,10,7,17,19,16,No,No,Sí,No,Sí
+467,Alumno 468,5,B,Ventanilla,19,20,8,9,13,10,19,16,Sí,No,No,No,Sí
+468,Alumno 469,5,A,Ventanilla,12,14,6,12,8,16,10,16,No,Sí,No,No,Sí
+469,Alumno 470,5,B,Los Olivos,19,11,16,5,17,14,15,16,No,Sí,No,No,No
+470,Alumno 471,5,A,Ventanilla,15,8,13,20,17,20,19,16,Sí,No,No,No,No
+471,Alumno 472,5,B,Callao,6,8,5,15,19,17,6,16,Sí,Sí,No,Sí,No
+472,Alumno 473,5,A,Ventanilla,11,12,17,11,7,10,8,16,No,Sí,No,No,No
+473,Alumno 474,5,B,Ventanilla,16,18,17,19,15,20,11,16,No,No,Sí,No,No
+474,Alumno 475,5,A,Puente Piedra,10,12,15,14,6,16,12,16,No,No,Sí,Sí,No
+475,Alumno 476,5,B,Puente Piedra,8,6,19,14,14,14,19,16,Sí,Sí,No,No,No
+476,Alumno 477,5,A,Ventanilla,11,18,18,20,17,13,7,16,Sí,No,Sí,Sí,Sí
+477,Alumno 478,5,B,Los Olivos,20,6,8,15,15,16,18,16,Sí,No,No,Sí,Sí
+478,Alumno 479,5,A,Puente Piedra,18,7,5,6,13,19,19,16,Sí,Sí,No,Sí,No
+479,Alumno 480,5,B,Los Olivos,17,19,17,19,8,11,17,16,No,Sí,No,No,No
+480,Alumno 481,5,A,Ventanilla,8,16,20,18,20,10,13,16,Sí,Sí,Sí,No,No
+481,Alumno 482,5,B,Ventanilla,20,16,20,13,7,10,6,16,Sí,No,Sí,Sí,Sí
+482,Alumno 483,5,A,Callao,6,7,10,5,11,20,12,16,Sí,Sí,No,Sí,Sí
+483,Alumno 484,5,B,Puente Piedra,14,5,8,15,12,10,12,16,No,No,No,Sí,No
+484,Alumno 485,5,A,Ventanilla,16,19,9,20,15,14,20,16,Sí,Sí,No,No,Sí
+485,Alumno 486,5,B,Callao,11,18,9,14,18,19,17,16,No,No,Sí,Sí,Sí
+486,Alumno 487,5,A,Puente Piedra,12,7,13,10,6,16,20,16,Sí,No,Sí,No,No
+487,Alumno 488,5,B,Ventanilla,6,10,5,13,11,11,20,16,No,No,No,Sí,Sí
+488,Alumno 489,5,A,Ventanilla,9,12,17,5,16,19,18,16,No,No,No,No,No
+489,Alumno 490,5,B,Puente Piedra,5,17,6,8,9,17,8,16,No,Sí,Sí,Sí,No
+490,Alumno 491,5,A,Puente Piedra,11,16,17,20,19,13,5,16,No,Sí,No,No,No
+491,Alumno 492,5,B,Puente Piedra,12,18,10,8,15,12,17,16,Sí,No,Sí,Sí,Sí
+492,Alumno 493,5,A,Ventanilla,17,14,9,19,9,19,5,16,Sí,No,Sí,Sí,Sí
+493,Alumno 494,5,B,Ventanilla,20,10,15,13,7,20,6,16,No,No,Sí,Sí,Sí
+494,Alumno 495,5,A,Callao,10,9,11,15,9,17,18,16,Sí,No,No,No,No
+495,Alumno 496,5,B,Los Olivos,9,19,7,9,16,11,19,16,No,Sí,Sí,Sí,Sí
+496,Alumno 497,5,A,Puente Piedra,19,8,7,9,6,20,16,16,Sí,Sí,Sí,Sí,Sí
+497,Alumno 498,5,B,Ventanilla,10,20,14,10,8,20,18,16,No,No,Sí,No,No
+498,Alumno 499,5,A,Ventanilla,19,7,6,5,10,12,13,16,No,No,No,Sí,No
+499,Alumno 500,5,B,Puente Piedra,6,20,20,5,5,12,17,16,No,Sí,No,Sí,Sí
+500,Alumno 501,1,A,Los Olivos,5,17,17,19,14,19,6,12,No,No,No,No,Sí
+501,Alumno 502,1,B,Puente Piedra,11,8,7,13,8,20,6,12,No,No,No,Sí,Sí
+502,Alumno 503,1,A,Los Olivos,11,18,14,7,10,10,10,12,No,No,No,Sí,No
+503,Alumno 504,1,B,Ventanilla,14,11,5,8,13,15,11,12,Sí,No,Sí,No,No
+504,Alumno 505,1,A,Los Olivos,15,5,9,5,18,11,17,12,Sí,Sí,Sí,Sí,No
+505,Alumno 506,1,B,Callao,14,11,18,13,15,10,11,12,Sí,No,No,No,No
+506,Alumno 507,1,A,Ventanilla,18,5,19,19,20,11,19,12,Sí,Sí,No,No,Sí
+507,Alumno 508,1,B,Callao,6,6,16,12,15,15,20,12,No,Sí,Sí,Sí,Sí
+508,Alumno 509,1,A,Puente Piedra,6,19,9,6,17,13,17,12,No,No,Sí,Sí,Sí
+509,Alumno 510,1,B,Puente Piedra,5,8,16,12,6,15,13,12,Sí,Sí,Sí,Sí,Sí
+510,Alumno 511,1,A,Puente Piedra,14,5,15,19,15,18,10,12,Sí,Sí,Sí,Sí,No
+511,Alumno 512,1,B,Los Olivos,12,15,11,20,11,19,18,12,Sí,No,No,No,No
+512,Alumno 513,1,A,Ventanilla,19,16,8,11,10,19,12,12,Sí,Sí,Sí,Sí,No
+513,Alumno 514,1,B,Puente Piedra,12,15,7,15,6,17,15,12,Sí,Sí,Sí,Sí,Sí
+514,Alumno 515,1,A,Puente Piedra,5,19,5,10,12,10,10,12,Sí,No,Sí,Sí,No
+515,Alumno 516,1,B,Ventanilla,16,15,16,5,11,17,6,12,No,No,No,No,Sí
+516,Alumno 517,1,A,Puente Piedra,15,13,19,19,15,18,5,12,No,Sí,Sí,No,No
+517,Alumno 518,1,B,Callao,12,16,12,11,9,15,9,12,No,No,Sí,Sí,Sí
+518,Alumno 519,1,A,Ventanilla,13,10,17,14,16,19,18,12,No,Sí,Sí,Sí,Sí
+519,Alumno 520,1,B,Ventanilla,18,17,7,11,9,14,13,12,No,No,No,Sí,No
+520,Alumno 521,1,A,Ventanilla,8,5,17,17,11,15,12,12,No,Sí,Sí,No,Sí
+521,Alumno 522,1,B,Callao,5,5,19,18,13,15,18,12,Sí,Sí,No,No,Sí
+522,Alumno 523,1,A,Ventanilla,5,10,6,13,15,18,17,12,Sí,Sí,No,No,Sí
+523,Alumno 524,1,B,Callao,7,8,15,5,19,13,8,12,No,No,No,No,Sí
+524,Alumno 525,1,A,Ventanilla,19,8,8,6,13,11,9,12,Sí,No,No,Sí,Sí
+525,Alumno 526,1,B,Los Olivos,20,20,7,15,13,20,17,12,Sí,Sí,Sí,No,No
+526,Alumno 527,1,A,Puente Piedra,18,19,17,13,10,20,9,12,No,No,Sí,No,Sí
+527,Alumno 528,1,B,Los Olivos,9,15,5,17,14,18,10,12,No,Sí,No,Sí,Sí
+528,Alumno 529,1,A,Puente Piedra,20,19,7,13,10,11,7,12,Sí,Sí,No,No,No
+529,Alumno 530,1,B,Callao,9,10,16,17,7,19,9,12,Sí,No,No,No,No
+530,Alumno 531,1,A,Los Olivos,13,19,6,10,5,18,20,12,No,No,No,No,Sí
+531,Alumno 532,1,B,Ventanilla,14,18,12,10,20,11,6,12,Sí,No,No,No,No
+532,Alumno 533,1,A,Puente Piedra,18,16,10,8,11,17,14,12,Sí,Sí,Sí,Sí,Sí
+533,Alumno 534,1,B,Puente Piedra,16,15,13,8,8,18,20,12,Sí,No,No,No,No
+534,Alumno 535,1,A,Los Olivos,6,11,12,9,5,19,5,12,No,Sí,Sí,No,Sí
+535,Alumno 536,1,B,Callao,6,13,14,7,19,18,15,12,No,No,No,No,Sí
+536,Alumno 537,1,A,Los Olivos,20,14,7,5,12,19,5,12,Sí,No,No,No,Sí
+537,Alumno 538,1,B,Callao,10,20,9,19,16,18,20,12,No,No,No,No,No
+538,Alumno 539,1,A,Callao,19,9,11,5,10,11,14,12,No,Sí,No,No,Sí
+539,Alumno 540,1,B,Puente Piedra,13,13,9,16,10,13,11,12,No,Sí,Sí,Sí,No
+540,Alumno 541,1,A,Los Olivos,5,8,12,20,6,16,6,12,No,Sí,No,Sí,No
+541,Alumno 542,1,B,Los Olivos,13,17,16,19,19,11,8,12,Sí,No,Sí,No,Sí
+542,Alumno 543,1,A,Callao,13,14,9,17,5,10,9,12,Sí,No,Sí,Sí,No
+543,Alumno 544,1,B,Los Olivos,20,6,5,11,17,12,11,12,Sí,Sí,Sí,Sí,Sí
+544,Alumno 545,1,A,Ventanilla,17,7,9,20,18,13,6,12,No,Sí,No,Sí,No
+545,Alumno 546,1,B,Ventanilla,13,17,8,5,18,17,18,12,Sí,No,No,Sí,No
+546,Alumno 547,1,A,Los Olivos,9,15,10,5,6,15,10,12,Sí,Sí,Sí,Sí,No
+547,Alumno 548,1,B,Los Olivos,17,5,7,7,8,20,5,12,Sí,No,Sí,No,Sí
+548,Alumno 549,1,A,Callao,19,18,19,14,6,11,11,12,Sí,Sí,No,Sí,No
+549,Alumno 550,1,B,Ventanilla,13,18,20,19,20,18,13,12,Sí,No,No,No,No
+550,Alumno 551,1,A,Ventanilla,15,10,15,8,5,11,9,12,Sí,No,No,No,No
+551,Alumno 552,1,B,Puente Piedra,8,17,9,20,11,14,9,12,Sí,No,Sí,Sí,Sí
+552,Alumno 553,1,A,Callao,6,10,6,20,15,13,8,12,Sí,Sí,Sí,No,No
+553,Alumno 554,1,B,Puente Piedra,17,5,15,20,15,16,20,12,Sí,Sí,No,Sí,No
+554,Alumno 555,1,A,Ventanilla,10,15,10,8,19,17,20,12,Sí,No,Sí,No,Sí
+555,Alumno 556,1,B,Callao,18,17,17,6,16,14,7,12,No,No,No,No,No
+556,Alumno 557,1,A,Los Olivos,8,7,19,5,12,19,13,12,Sí,No,Sí,Sí,No
+557,Alumno 558,1,B,Callao,10,9,16,7,10,14,9,12,Sí,Sí,No,No,No
+558,Alumno 559,1,A,Los Olivos,7,7,10,15,8,11,12,12,Sí,No,Sí,Sí,No
+559,Alumno 560,1,B,Los Olivos,10,14,9,8,18,17,13,12,Sí,No,Sí,Sí,Sí
+560,Alumno 561,1,A,Callao,6,7,10,7,10,11,9,12,Sí,Sí,No,Sí,No
+561,Alumno 562,1,B,Los Olivos,6,18,15,12,7,19,14,12,No,No,No,Sí,No
+562,Alumno 563,1,A,Puente Piedra,17,14,11,18,16,15,13,12,No,Sí,Sí,No,No
+563,Alumno 564,1,B,Ventanilla,13,7,16,14,12,17,6,12,No,No,No,Sí,Sí
+564,Alumno 565,1,A,Los Olivos,11,9,9,5,14,15,13,12,No,Sí,No,No,Sí
+565,Alumno 566,1,B,Puente Piedra,7,17,5,18,18,13,15,12,No,No,No,No,Sí
+566,Alumno 567,1,A,Los Olivos,17,20,12,6,17,13,8,12,Sí,No,No,Sí,Sí
+567,Alumno 568,1,B,Ventanilla,15,9,8,17,17,15,10,12,No,No,Sí,No,Sí
+568,Alumno 569,1,A,Puente Piedra,5,8,13,11,6,13,20,12,No,Sí,No,No,No
+569,Alumno 570,1,B,Ventanilla,12,5,18,8,9,17,10,12,No,No,Sí,No,Sí
+570,Alumno 571,1,A,Ventanilla,18,9,14,12,5,18,10,12,No,No,No,Sí,Sí
+571,Alumno 572,1,B,Puente Piedra,10,14,16,15,10,10,6,12,Sí,No,Sí,Sí,Sí
+572,Alumno 573,1,A,Puente Piedra,11,20,10,17,6,13,11,12,Sí,Sí,No,Sí,No
+573,Alumno 574,1,B,Puente Piedra,13,9,5,7,8,13,17,12,No,No,No,Sí,No
+574,Alumno 575,1,A,Callao,9,8,7,10,10,11,10,12,Sí,Sí,No,No,Sí
+575,Alumno 576,1,B,Puente Piedra,19,10,7,13,14,15,15,12,No,No,No,Sí,No
+576,Alumno 577,1,A,Puente Piedra,5,14,14,5,15,12,18,12,Sí,Sí,No,Sí,No
+577,Alumno 578,1,B,Puente Piedra,16,8,20,5,12,16,5,12,No,Sí,Sí,No,Sí
+578,Alumno 579,1,A,Puente Piedra,14,18,16,12,16,20,6,12,No,No,No,Sí,Sí
+579,Alumno 580,1,B,Los Olivos,11,11,16,7,12,20,11,12,Sí,Sí,Sí,No,Sí
+580,Alumno 581,1,A,Callao,19,11,8,9,15,14,5,12,No,Sí,No,No,Sí
+581,Alumno 582,1,B,Ventanilla,9,6,20,5,10,13,19,12,No,No,No,Sí,No
+582,Alumno 583,1,A,Puente Piedra,7,7,10,9,8,14,5,12,Sí,No,Sí,Sí,Sí
+583,Alumno 584,1,B,Los Olivos,16,5,19,15,12,17,5,12,Sí,No,No,No,Sí
+584,Alumno 585,1,A,Los Olivos,17,12,11,20,17,12,12,12,Sí,No,No,No,No
+585,Alumno 586,1,B,Los Olivos,13,13,14,10,12,16,8,12,No,Sí,Sí,Sí,No
+586,Alumno 587,1,A,Ventanilla,5,8,8,12,14,15,8,12,Sí,Sí,Sí,No,No
+587,Alumno 588,1,B,Puente Piedra,5,10,10,17,18,10,17,12,Sí,No,No,No,Sí
+588,Alumno 589,1,A,Callao,20,13,15,20,5,16,6,12,Sí,Sí,Sí,No,No
+589,Alumno 590,1,B,Callao,5,10,5,20,20,16,15,12,Sí,No,No,No,Sí
+590,Alumno 591,1,A,Los Olivos,7,18,18,18,8,10,15,12,Sí,Sí,No,No,No
+591,Alumno 592,1,B,Ventanilla,16,16,12,7,8,18,15,12,Sí,No,Sí,Sí,Sí
+592,Alumno 593,1,A,Ventanilla,10,16,11,7,11,15,20,12,No,Sí,No,No,Sí
+593,Alumno 594,1,B,Ventanilla,14,16,19,16,20,11,5,12,Sí,Sí,No,No,No
+594,Alumno 595,1,A,Callao,15,13,15,20,18,14,16,12,Sí,No,Sí,Sí,No
+595,Alumno 596,1,B,Los Olivos,7,19,15,15,18,20,14,12,No,Sí,Sí,No,No
+596,Alumno 597,1,A,Puente Piedra,12,8,20,15,15,13,13,12,No,Sí,Sí,No,Sí
+597,Alumno 598,1,B,Callao,18,12,13,14,11,16,11,12,No,Sí,No,No,Sí
+598,Alumno 599,1,A,Los Olivos,18,13,7,13,20,17,8,12,No,No,No,No,Sí
+599,Alumno 600,1,B,Los Olivos,14,8,6,8,17,20,16,12,No,Sí,Sí,Sí,No
+600,Alumno 601,2,A,Puente Piedra,6,9,5,19,15,20,10,13,No,No,Sí,No,No
+601,Alumno 602,2,B,Puente Piedra,18,18,7,8,19,10,18,13,Sí,Sí,No,No,Sí
+602,Alumno 603,2,A,Puente Piedra,13,12,9,16,12,14,20,13,Sí,Sí,No,Sí,Sí
+603,Alumno 604,2,B,Ventanilla,7,16,18,11,20,12,6,13,Sí,Sí,No,Sí,No
+604,Alumno 605,2,A,Puente Piedra,9,14,15,6,15,10,11,13,Sí,Sí,No,Sí,Sí
+605,Alumno 606,2,B,Los Olivos,14,18,6,12,9,12,6,13,No,Sí,Sí,Sí,Sí
+606,Alumno 607,2,A,Puente Piedra,12,10,16,10,11,15,14,13,Sí,No,Sí,No,No
+607,Alumno 608,2,B,Los Olivos,20,16,7,7,12,16,12,13,No,No,No,No,Sí
+608,Alumno 609,2,A,Callao,6,11,19,13,20,17,12,13,No,No,Sí,No,Sí
+609,Alumno 610,2,B,Ventanilla,10,7,19,9,19,20,5,13,Sí,No,Sí,Sí,No
+610,Alumno 611,2,A,Callao,16,11,19,12,13,13,17,13,Sí,No,Sí,No,No
+611,Alumno 612,2,B,Callao,9,16,8,11,7,12,12,13,Sí,Sí,Sí,Sí,No
+612,Alumno 613,2,A,Los Olivos,17,18,11,18,7,14,6,13,Sí,No,No,Sí,Sí
+613,Alumno 614,2,B,Callao,14,12,17,12,8,18,10,13,Sí,No,No,Sí,Sí
+614,Alumno 615,2,A,Los Olivos,13,14,7,11,9,15,17,13,Sí,No,No,Sí,No
+615,Alumno 616,2,B,Puente Piedra,16,20,20,7,14,18,5,13,No,Sí,No,No,Sí
+616,Alumno 617,2,A,Puente Piedra,9,20,19,6,5,15,9,13,Sí,No,No,Sí,No
+617,Alumno 618,2,B,Los Olivos,6,10,13,20,19,11,15,13,Sí,Sí,Sí,No,No
+618,Alumno 619,2,A,Puente Piedra,20,19,12,11,19,14,11,13,No,No,No,No,No
+619,Alumno 620,2,B,Ventanilla,9,14,8,7,11,20,17,13,No,Sí,No,No,No
+620,Alumno 621,2,A,Callao,19,13,17,7,13,18,14,13,Sí,Sí,Sí,No,No
+621,Alumno 622,2,B,Ventanilla,16,17,5,6,12,17,5,13,No,Sí,No,Sí,No
+622,Alumno 623,2,A,Callao,8,10,5,8,19,16,19,13,Sí,Sí,No,Sí,No
+623,Alumno 624,2,B,Puente Piedra,19,16,5,20,19,10,6,13,No,Sí,No,Sí,No
+624,Alumno 625,2,A,Ventanilla,15,13,5,12,9,13,11,13,Sí,No,Sí,No,No
+625,Alumno 626,2,B,Puente Piedra,20,17,20,16,18,16,10,13,No,Sí,No,Sí,No
+626,Alumno 627,2,A,Callao,11,8,12,5,18,20,7,13,Sí,No,No,No,Sí
+627,Alumno 628,2,B,Los Olivos,10,12,7,5,8,16,18,13,No,Sí,Sí,Sí,Sí
+628,Alumno 629,2,A,Los Olivos,18,15,19,16,16,15,14,13,Sí,Sí,Sí,No,Sí
+629,Alumno 630,2,B,Ventanilla,6,8,10,18,11,17,6,13,Sí,Sí,No,Sí,No
+630,Alumno 631,2,A,Puente Piedra,16,6,7,9,9,20,14,13,Sí,Sí,No,No,No
+631,Alumno 632,2,B,Puente Piedra,15,14,15,15,11,15,8,13,Sí,Sí,Sí,Sí,Sí
+632,Alumno 633,2,A,Ventanilla,15,15,9,9,16,19,7,13,No,Sí,Sí,Sí,Sí
+633,Alumno 634,2,B,Los Olivos,17,13,17,15,5,12,11,13,Sí,Sí,No,No,No
+634,Alumno 635,2,A,Callao,9,9,19,16,5,13,12,13,Sí,No,Sí,No,Sí
+635,Alumno 636,2,B,Ventanilla,11,8,18,5,20,12,6,13,Sí,Sí,No,No,No
+636,Alumno 637,2,A,Callao,15,6,17,10,14,10,14,13,Sí,Sí,No,Sí,Sí
+637,Alumno 638,2,B,Los Olivos,11,5,19,5,18,19,11,13,No,No,No,Sí,No
+638,Alumno 639,2,A,Puente Piedra,20,15,11,9,17,14,12,13,No,No,No,No,Sí
+639,Alumno 640,2,B,Los Olivos,19,11,20,13,7,10,10,13,No,Sí,No,Sí,No
+640,Alumno 641,2,A,Ventanilla,9,10,6,16,18,10,10,13,No,No,No,No,Sí
+641,Alumno 642,2,B,Puente Piedra,16,19,20,18,15,11,14,13,No,No,No,No,No
+642,Alumno 643,2,A,Ventanilla,19,19,10,9,6,13,5,13,Sí,Sí,Sí,Sí,No
+643,Alumno 644,2,B,Ventanilla,13,6,17,10,6,15,8,13,Sí,No,Sí,Sí,Sí
+644,Alumno 645,2,A,Los Olivos,8,20,10,12,11,17,18,13,No,No,No,Sí,No
+645,Alumno 646,2,B,Ventanilla,15,12,15,15,16,12,5,13,No,Sí,Sí,No,Sí
+646,Alumno 647,2,A,Los Olivos,7,15,7,5,14,10,8,13,Sí,Sí,No,Sí,Sí
+647,Alumno 648,2,B,Puente Piedra,19,8,10,18,6,12,6,13,No,Sí,Sí,No,No
+648,Alumno 649,2,A,Los Olivos,8,12,14,6,15,12,15,13,No,No,Sí,Sí,Sí
+649,Alumno 650,2,B,Puente Piedra,9,19,14,20,8,14,17,13,Sí,No,No,No,No
+650,Alumno 651,2,A,Los Olivos,17,20,20,13,6,20,9,13,No,Sí,No,No,Sí
+651,Alumno 652,2,B,Callao,10,11,18,7,10,13,14,13,No,Sí,Sí,Sí,Sí
+652,Alumno 653,2,A,Callao,7,9,9,10,12,13,18,13,No,Sí,No,No,Sí
+653,Alumno 654,2,B,Ventanilla,6,14,20,9,14,18,13,13,Sí,No,Sí,No,No
+654,Alumno 655,2,A,Los Olivos,18,14,16,15,20,16,15,13,Sí,No,Sí,No,No
+655,Alumno 656,2,B,Los Olivos,17,16,6,6,8,13,19,13,Sí,Sí,No,Sí,Sí
+656,Alumno 657,2,A,Puente Piedra,8,12,13,18,19,12,16,13,No,No,Sí,No,No
+657,Alumno 658,2,B,Ventanilla,20,20,12,19,9,15,14,13,No,Sí,Sí,Sí,Sí
+658,Alumno 659,2,A,Los Olivos,9,18,7,11,8,12,7,13,No,Sí,No,Sí,No
+659,Alumno 660,2,B,Ventanilla,8,13,12,8,7,15,12,13,Sí,No,Sí,No,No
+660,Alumno 661,2,A,Callao,18,9,18,5,9,20,7,13,No,Sí,No,No,No
+661,Alumno 662,2,B,Los Olivos,15,14,13,17,18,20,10,13,Sí,Sí,No,No,Sí
+662,Alumno 663,2,A,Los Olivos,17,9,18,8,13,18,20,13,Sí,Sí,No,No,No
+663,Alumno 664,2,B,Ventanilla,19,6,19,10,12,15,8,13,No,No,Sí,No,Sí
+664,Alumno 665,2,A,Los Olivos,16,9,7,11,12,13,12,13,No,No,No,No,Sí
+665,Alumno 666,2,B,Ventanilla,7,7,7,19,12,14,15,13,No,Sí,No,Sí,Sí
+666,Alumno 667,2,A,Los Olivos,12,11,6,11,16,15,10,13,No,No,No,Sí,No
+667,Alumno 668,2,B,Puente Piedra,20,14,12,18,12,20,12,13,Sí,Sí,Sí,No,Sí
+668,Alumno 669,2,A,Ventanilla,14,9,14,11,11,12,5,13,No,No,Sí,Sí,No
+669,Alumno 670,2,B,Los Olivos,8,12,5,7,12,17,10,13,Sí,No,No,Sí,No
+670,Alumno 671,2,A,Callao,18,5,12,20,15,13,5,13,Sí,No,No,No,No
+671,Alumno 672,2,B,Los Olivos,6,7,11,10,18,17,5,13,No,Sí,No,Sí,No
+672,Alumno 673,2,A,Callao,6,7,18,17,20,19,12,13,No,Sí,Sí,No,Sí
+673,Alumno 674,2,B,Callao,5,13,11,12,12,19,20,13,Sí,Sí,No,Sí,Sí
+674,Alumno 675,2,A,Puente Piedra,17,9,7,8,17,12,19,13,No,No,Sí,Sí,Sí
+675,Alumno 676,2,B,Ventanilla,8,20,5,17,18,19,11,13,Sí,No,No,No,Sí
+676,Alumno 677,2,A,Los Olivos,14,16,8,12,12,16,7,13,Sí,Sí,Sí,No,No
+677,Alumno 678,2,B,Puente Piedra,13,13,13,6,16,20,10,13,No,Sí,No,No,Sí
+678,Alumno 679,2,A,Los Olivos,18,17,9,19,14,18,19,13,Sí,No,Sí,No,No
+679,Alumno 680,2,B,Callao,15,13,5,14,11,13,13,13,Sí,Sí,No,No,No
+680,Alumno 681,2,A,Ventanilla,11,5,19,13,16,17,11,13,Sí,No,No,Sí,No
+681,Alumno 682,2,B,Los Olivos,19,6,9,13,5,12,16,13,No,Sí,Sí,Sí,No
+682,Alumno 683,2,A,Los Olivos,16,9,17,12,8,16,7,13,No,No,Sí,Sí,No
+683,Alumno 684,2,B,Callao,14,8,12,14,17,12,18,13,No,No,Sí,No,Sí
+684,Alumno 685,2,A,Los Olivos,11,19,12,18,17,16,18,13,No,No,No,No,Sí
+685,Alumno 686,2,B,Los Olivos,17,14,9,17,20,20,17,13,No,Sí,Sí,No,No
+686,Alumno 687,2,A,Callao,19,13,16,14,8,19,10,13,No,No,Sí,Sí,Sí
+687,Alumno 688,2,B,Puente Piedra,11,11,20,5,9,19,15,13,No,No,No,No,No
+688,Alumno 689,2,A,Callao,19,10,13,6,14,20,8,13,No,Sí,Sí,Sí,No
+689,Alumno 690,2,B,Puente Piedra,12,11,19,10,10,20,18,13,Sí,No,No,No,Sí
+690,Alumno 691,2,A,Ventanilla,5,5,5,14,8,15,17,13,No,No,Sí,Sí,No
+691,Alumno 692,2,B,Puente Piedra,14,5,8,9,19,11,7,13,No,No,No,Sí,Sí
+692,Alumno 693,2,A,Puente Piedra,17,12,7,16,6,20,13,13,Sí,Sí,Sí,No,No
+693,Alumno 694,2,B,Ventanilla,14,17,6,18,20,12,14,13,Sí,Sí,No,Sí,Sí
+694,Alumno 695,2,A,Puente Piedra,12,17,19,13,10,15,6,13,No,No,No,Sí,Sí
+695,Alumno 696,2,B,Callao,8,6,12,9,19,13,5,13,No,Sí,Sí,No,Sí
+696,Alumno 697,2,A,Puente Piedra,8,16,11,6,12,15,19,13,Sí,No,No,Sí,No
+697,Alumno 698,2,B,Ventanilla,8,14,13,14,19,10,18,13,No,No,No,Sí,Sí
+698,Alumno 699,2,A,Callao,10,15,6,8,12,19,20,13,No,No,No,Sí,Sí
+699,Alumno 700,2,B,Ventanilla,11,13,18,13,11,10,6,13,No,No,Sí,No,No
+700,Alumno 701,3,A,Ventanilla,10,11,18,5,10,12,11,14,Sí,Sí,Sí,No,Sí
+701,Alumno 702,3,B,Los Olivos,5,10,20,15,6,17,14,14,No,No,Sí,No,No
+702,Alumno 703,3,A,Los Olivos,16,5,8,5,19,17,5,14,Sí,No,Sí,Sí,Sí
+703,Alumno 704,3,B,Ventanilla,12,5,18,16,11,20,10,14,Sí,Sí,Sí,Sí,No
+704,Alumno 705,3,A,Ventanilla,17,6,19,11,15,13,18,14,No,No,Sí,No,No
+705,Alumno 706,3,B,Ventanilla,14,10,10,15,16,15,11,14,No,Sí,No,No,Sí
+706,Alumno 707,3,A,Los Olivos,19,18,15,7,18,17,13,14,Sí,Sí,Sí,Sí,Sí
+707,Alumno 708,3,B,Los Olivos,15,10,7,14,20,16,19,14,Sí,Sí,Sí,No,No
+708,Alumno 709,3,A,Puente Piedra,17,6,12,6,18,20,18,14,No,Sí,Sí,Sí,No
+709,Alumno 710,3,B,Puente Piedra,11,5,7,13,9,16,12,14,Sí,No,No,Sí,No
+710,Alumno 711,3,A,Ventanilla,10,14,18,7,20,13,10,14,No,No,No,Sí,Sí
+711,Alumno 712,3,B,Callao,10,9,16,20,10,18,7,14,Sí,Sí,No,No,No
+712,Alumno 713,3,A,Callao,9,9,17,6,14,19,12,14,No,Sí,No,Sí,No
+713,Alumno 714,3,B,Los Olivos,10,6,17,16,12,15,11,14,Sí,Sí,Sí,Sí,No
+714,Alumno 715,3,A,Los Olivos,16,10,20,12,20,20,7,14,Sí,Sí,Sí,No,Sí
+715,Alumno 716,3,B,Los Olivos,13,20,6,14,18,12,13,14,Sí,No,Sí,Sí,Sí
+716,Alumno 717,3,A,Ventanilla,14,13,17,10,12,14,16,14,No,Sí,No,Sí,No
+717,Alumno 718,3,B,Callao,13,6,17,10,7,14,6,14,No,Sí,No,Sí,No
+718,Alumno 719,3,A,Puente Piedra,19,14,7,14,16,14,7,14,Sí,No,Sí,Sí,No
+719,Alumno 720,3,B,Ventanilla,14,6,15,15,20,17,6,14,Sí,No,No,No,Sí
+720,Alumno 721,3,A,Puente Piedra,12,20,10,11,16,18,17,14,Sí,Sí,Sí,Sí,No
+721,Alumno 722,3,B,Puente Piedra,14,20,20,11,18,18,5,14,No,Sí,Sí,No,No
+722,Alumno 723,3,A,Ventanilla,13,7,6,15,11,15,8,14,No,Sí,Sí,No,No
+723,Alumno 724,3,B,Puente Piedra,17,17,12,17,5,15,9,14,Sí,No,No,Sí,No
+724,Alumno 725,3,A,Callao,14,11,5,19,5,18,17,14,Sí,Sí,No,Sí,No
+725,Alumno 726,3,B,Puente Piedra,12,10,11,10,11,13,10,14,No,No,Sí,No,No
+726,Alumno 727,3,A,Callao,12,16,6,8,19,15,9,14,No,Sí,No,No,No
+727,Alumno 728,3,B,Callao,20,12,14,15,19,13,5,14,No,Sí,Sí,Sí,No
+728,Alumno 729,3,A,Callao,5,19,16,13,14,20,7,14,Sí,No,No,No,No
+729,Alumno 730,3,B,Los Olivos,14,12,20,10,13,10,5,14,No,Sí,Sí,No,No
+730,Alumno 731,3,A,Puente Piedra,15,10,10,8,11,16,15,14,Sí,Sí,No,Sí,No
+731,Alumno 732,3,B,Ventanilla,9,16,16,16,14,19,9,14,No,No,Sí,Sí,No
+732,Alumno 733,3,A,Ventanilla,8,15,6,7,9,20,9,14,Sí,Sí,No,No,No
+733,Alumno 734,3,B,Puente Piedra,6,14,6,8,12,15,20,14,No,Sí,Sí,No,No
+734,Alumno 735,3,A,Los Olivos,12,7,14,7,6,18,16,14,Sí,Sí,No,No,No
+735,Alumno 736,3,B,Los Olivos,7,20,17,19,13,16,15,14,No,Sí,No,Sí,No
+736,Alumno 737,3,A,Callao,8,7,12,6,10,16,17,14,No,No,No,No,Sí
+737,Alumno 738,3,B,Puente Piedra,16,19,19,18,17,11,10,14,No,No,No,No,No
+738,Alumno 739,3,A,Puente Piedra,11,5,19,9,13,20,12,14,No,No,No,Sí,Sí
+739,Alumno 740,3,B,Ventanilla,14,20,16,6,20,18,14,14,Sí,Sí,No,Sí,Sí
+740,Alumno 741,3,A,Puente Piedra,13,20,6,10,6,19,20,14,No,No,Sí,No,No
+741,Alumno 742,3,B,Los Olivos,6,11,11,7,7,18,16,14,Sí,No,No,No,Sí
+742,Alumno 743,3,A,Puente Piedra,7,9,7,10,16,15,5,14,No,No,No,Sí,No
+743,Alumno 744,3,B,Ventanilla,8,8,12,19,12,12,8,14,Sí,Sí,Sí,Sí,Sí
+744,Alumno 745,3,A,Callao,14,14,11,15,5,10,14,14,Sí,No,No,No,No
+745,Alumno 746,3,B,Ventanilla,5,19,18,14,19,13,20,14,No,Sí,Sí,Sí,Sí
+746,Alumno 747,3,A,Ventanilla,11,8,12,13,14,12,15,14,Sí,Sí,No,Sí,No
+747,Alumno 748,3,B,Callao,6,18,18,5,19,10,5,14,Sí,No,No,Sí,No
+748,Alumno 749,3,A,Ventanilla,9,8,11,20,19,12,13,14,No,Sí,No,No,No
+749,Alumno 750,3,B,Ventanilla,19,10,15,20,19,13,15,14,No,Sí,No,No,Sí
+750,Alumno 751,3,A,Puente Piedra,5,19,10,10,11,17,11,14,Sí,Sí,No,No,Sí
+751,Alumno 752,3,B,Puente Piedra,7,12,17,13,11,18,11,14,No,Sí,No,No,No
+752,Alumno 753,3,A,Callao,16,12,11,15,17,12,16,14,No,No,No,No,Sí
+753,Alumno 754,3,B,Puente Piedra,6,9,9,8,5,15,9,14,Sí,No,Sí,No,No
+754,Alumno 755,3,A,Puente Piedra,5,19,11,15,20,19,11,14,No,No,Sí,No,Sí
+755,Alumno 756,3,B,Ventanilla,11,10,5,16,13,20,16,14,Sí,Sí,Sí,No,No
+756,Alumno 757,3,A,Los Olivos,9,8,5,6,12,14,19,14,No,No,No,Sí,No
+757,Alumno 758,3,B,Puente Piedra,5,16,13,17,8,15,6,14,No,No,No,No,Sí
+758,Alumno 759,3,A,Los Olivos,10,18,18,8,14,13,18,14,Sí,Sí,Sí,Sí,Sí
+759,Alumno 760,3,B,Puente Piedra,20,15,9,5,15,19,17,14,No,No,No,Sí,Sí
+760,Alumno 761,3,A,Puente Piedra,9,17,17,7,9,15,8,14,Sí,Sí,No,Sí,Sí
+761,Alumno 762,3,B,Callao,19,13,9,14,6,16,18,14,Sí,No,No,Sí,No
+762,Alumno 763,3,A,Callao,7,12,7,13,17,18,18,14,Sí,Sí,No,No,Sí
+763,Alumno 764,3,B,Callao,16,14,9,14,20,19,20,14,No,No,Sí,No,No
+764,Alumno 765,3,A,Los Olivos,11,16,7,9,13,16,11,14,Sí,No,No,No,No
+765,Alumno 766,3,B,Ventanilla,20,14,13,19,19,15,20,14,Sí,Sí,No,Sí,No
+766,Alumno 767,3,A,Puente Piedra,15,5,13,15,16,10,7,14,No,No,Sí,No,Sí
+767,Alumno 768,3,B,Puente Piedra,14,19,10,10,16,11,6,14,No,No,No,Sí,No
+768,Alumno 769,3,A,Puente Piedra,13,6,19,7,10,10,14,14,No,Sí,No,No,Sí
+769,Alumno 770,3,B,Los Olivos,18,13,5,20,7,18,6,14,No,Sí,Sí,No,Sí
+770,Alumno 771,3,A,Callao,17,12,11,9,16,19,17,14,No,Sí,Sí,Sí,No
+771,Alumno 772,3,B,Ventanilla,17,18,11,15,11,19,5,14,Sí,Sí,No,No,Sí
+772,Alumno 773,3,A,Los Olivos,13,7,20,12,13,18,9,14,Sí,No,No,Sí,Sí
+773,Alumno 774,3,B,Callao,18,12,18,10,7,16,16,14,No,Sí,Sí,No,No
+774,Alumno 775,3,A,Los Olivos,13,16,14,8,20,11,10,14,Sí,Sí,No,Sí,Sí
+775,Alumno 776,3,B,Ventanilla,6,5,14,6,6,15,10,14,No,Sí,Sí,Sí,No
+776,Alumno 777,3,A,Callao,20,14,8,18,20,20,20,14,Sí,No,Sí,Sí,Sí
+777,Alumno 778,3,B,Los Olivos,7,8,12,13,11,13,13,14,Sí,No,Sí,Sí,No
+778,Alumno 779,3,A,Ventanilla,11,7,10,17,11,10,8,14,No,No,Sí,Sí,No
+779,Alumno 780,3,B,Puente Piedra,9,10,8,16,8,10,5,14,Sí,No,Sí,No,Sí
+780,Alumno 781,3,A,Ventanilla,6,11,8,5,15,14,10,14,Sí,Sí,Sí,No,No
+781,Alumno 782,3,B,Puente Piedra,7,8,20,5,13,11,19,14,No,Sí,Sí,No,No
+782,Alumno 783,3,A,Los Olivos,14,11,6,17,20,13,9,14,Sí,Sí,Sí,No,No
+783,Alumno 784,3,B,Callao,10,13,18,8,18,10,14,14,Sí,Sí,Sí,No,No
+784,Alumno 785,3,A,Callao,17,15,6,11,12,13,10,14,No,Sí,No,No,No
+785,Alumno 786,3,B,Los Olivos,11,6,16,5,17,20,7,14,No,No,Sí,No,No
+786,Alumno 787,3,A,Callao,13,15,18,13,17,15,6,14,No,Sí,Sí,Sí,Sí
+787,Alumno 788,3,B,Callao,5,7,8,8,5,19,10,14,Sí,No,No,No,Sí
+788,Alumno 789,3,A,Puente Piedra,15,9,9,7,5,13,17,14,No,Sí,Sí,No,No
+789,Alumno 790,3,B,Los Olivos,11,7,12,5,9,10,5,14,No,Sí,No,No,No
+790,Alumno 791,3,A,Ventanilla,12,15,19,14,10,16,11,14,No,Sí,Sí,Sí,No
+791,Alumno 792,3,B,Puente Piedra,16,12,10,8,7,11,11,14,Sí,Sí,No,No,Sí
+792,Alumno 793,3,A,Los Olivos,18,16,18,13,17,18,14,14,Sí,No,Sí,No,Sí
+793,Alumno 794,3,B,Puente Piedra,7,14,19,17,13,12,17,14,Sí,No,No,No,No
+794,Alumno 795,3,A,Ventanilla,8,12,8,18,16,17,11,14,Sí,Sí,No,Sí,No
+795,Alumno 796,3,B,Ventanilla,14,12,17,14,14,17,19,14,Sí,No,No,Sí,No
+796,Alumno 797,3,A,Los Olivos,10,16,15,20,18,12,16,14,Sí,Sí,No,Sí,Sí
+797,Alumno 798,3,B,Ventanilla,14,16,11,20,19,13,15,14,No,Sí,Sí,Sí,Sí
+798,Alumno 799,3,A,Puente Piedra,20,13,12,10,10,11,14,14,No,Sí,No,Sí,No
+799,Alumno 800,3,B,Ventanilla,11,8,6,20,8,13,5,14,Sí,No,No,No,No
+800,Alumno 801,4,A,Puente Piedra,17,9,16,10,16,20,19,15,No,No,No,Sí,Sí
+801,Alumno 802,4,B,Puente Piedra,18,9,11,5,11,20,8,15,No,No,Sí,No,Sí
+802,Alumno 803,4,A,Ventanilla,8,12,19,14,12,20,17,15,Sí,No,Sí,Sí,No
+803,Alumno 804,4,B,Los Olivos,12,11,18,6,13,18,11,15,No,No,No,No,No
+804,Alumno 805,4,A,Callao,9,13,6,15,17,11,20,15,No,No,Sí,Sí,No
+805,Alumno 806,4,B,Ventanilla,5,19,6,10,20,12,15,15,Sí,Sí,No,No,No
+806,Alumno 807,4,A,Puente Piedra,8,19,12,6,15,20,13,15,Sí,Sí,Sí,No,Sí
+807,Alumno 808,4,B,Puente Piedra,7,20,6,7,10,20,9,15,Sí,Sí,No,Sí,No
+808,Alumno 809,4,A,Ventanilla,13,18,19,8,19,13,17,15,No,No,No,Sí,Sí
+809,Alumno 810,4,B,Los Olivos,12,12,15,15,10,14,6,15,Sí,Sí,Sí,Sí,No
+810,Alumno 811,4,A,Los Olivos,5,6,13,9,12,10,11,15,Sí,No,No,Sí,Sí
+811,Alumno 812,4,B,Puente Piedra,15,14,16,19,16,16,14,15,No,Sí,Sí,No,No
+812,Alumno 813,4,A,Puente Piedra,10,16,5,13,9,19,5,15,No,No,No,No,Sí
+813,Alumno 814,4,B,Los Olivos,13,8,19,16,18,16,20,15,No,Sí,Sí,No,Sí
+814,Alumno 815,4,A,Callao,11,10,13,19,7,18,11,15,No,No,Sí,No,Sí
+815,Alumno 816,4,B,Ventanilla,8,16,19,19,16,13,10,15,Sí,Sí,No,Sí,No
+816,Alumno 817,4,A,Puente Piedra,17,6,5,8,7,15,11,15,Sí,No,Sí,Sí,No
+817,Alumno 818,4,B,Puente Piedra,5,11,14,17,17,20,20,15,Sí,Sí,No,Sí,No
+818,Alumno 819,4,A,Los Olivos,16,20,17,15,10,11,18,15,No,No,Sí,No,Sí
+819,Alumno 820,4,B,Ventanilla,6,7,14,13,6,13,17,15,Sí,Sí,No,No,Sí
+820,Alumno 821,4,A,Los Olivos,16,17,6,15,20,11,14,15,Sí,No,No,No,Sí
+821,Alumno 822,4,B,Ventanilla,9,7,20,14,10,19,7,15,Sí,No,No,Sí,No
+822,Alumno 823,4,A,Ventanilla,16,15,10,7,20,14,19,15,No,No,No,Sí,Sí
+823,Alumno 824,4,B,Ventanilla,15,6,10,12,17,16,7,15,Sí,No,No,No,No
+824,Alumno 825,4,A,Puente Piedra,20,15,5,16,10,10,11,15,No,No,Sí,No,No
+825,Alumno 826,4,B,Callao,9,12,11,5,12,19,17,15,No,No,Sí,No,No
+826,Alumno 827,4,A,Los Olivos,12,10,12,15,11,19,6,15,Sí,Sí,Sí,No,No
+827,Alumno 828,4,B,Callao,10,5,6,13,12,16,5,15,No,No,Sí,Sí,Sí
+828,Alumno 829,4,A,Los Olivos,12,16,12,13,18,19,13,15,No,No,No,Sí,Sí
+829,Alumno 830,4,B,Ventanilla,6,5,13,14,13,15,13,15,Sí,Sí,No,Sí,No
+830,Alumno 831,4,A,Puente Piedra,7,11,10,6,10,15,11,15,Sí,Sí,No,No,Sí
+831,Alumno 832,4,B,Callao,10,20,9,8,18,17,11,15,No,Sí,No,No,Sí
+832,Alumno 833,4,A,Puente Piedra,16,12,16,17,20,17,7,15,Sí,Sí,No,No,No
+833,Alumno 834,4,B,Los Olivos,17,9,13,12,7,15,14,15,No,Sí,No,No,No
+834,Alumno 835,4,A,Puente Piedra,14,20,20,11,14,12,20,15,No,Sí,No,Sí,Sí
+835,Alumno 836,4,B,Puente Piedra,7,16,17,5,7,14,19,15,Sí,No,Sí,Sí,Sí
+836,Alumno 837,4,A,Callao,10,20,16,9,20,11,6,15,Sí,No,No,Sí,No
+837,Alumno 838,4,B,Ventanilla,10,15,15,11,15,14,15,15,No,No,Sí,Sí,No
+838,Alumno 839,4,A,Puente Piedra,6,9,13,19,16,18,11,15,Sí,Sí,No,Sí,Sí
+839,Alumno 840,4,B,Ventanilla,11,8,5,20,5,19,13,15,No,No,Sí,Sí,Sí
+840,Alumno 841,4,A,Los Olivos,16,18,15,8,15,10,5,15,No,No,No,No,Sí
+841,Alumno 842,4,B,Puente Piedra,6,10,7,19,19,19,17,15,Sí,Sí,Sí,No,Sí
+842,Alumno 843,4,A,Callao,10,18,13,20,17,14,18,15,Sí,Sí,Sí,Sí,Sí
+843,Alumno 844,4,B,Los Olivos,5,10,15,19,19,15,8,15,No,No,No,Sí,Sí
+844,Alumno 845,4,A,Los Olivos,7,7,6,5,9,20,20,15,No,No,Sí,Sí,No
+845,Alumno 846,4,B,Callao,6,20,16,13,18,16,10,15,No,No,Sí,Sí,No
+846,Alumno 847,4,A,Puente Piedra,11,13,8,18,8,18,11,15,Sí,Sí,Sí,Sí,No
+847,Alumno 848,4,B,Puente Piedra,18,16,8,9,13,15,14,15,No,No,No,No,Sí
+848,Alumno 849,4,A,Los Olivos,8,15,6,15,19,14,11,15,No,No,Sí,No,No
+849,Alumno 850,4,B,Puente Piedra,12,18,19,20,13,16,14,15,No,No,Sí,No,No
+850,Alumno 851,4,A,Ventanilla,10,11,7,6,19,10,6,15,No,No,Sí,No,Sí
+851,Alumno 852,4,B,Callao,16,20,17,12,18,20,18,15,No,No,No,Sí,No
+852,Alumno 853,4,A,Ventanilla,14,5,7,15,9,14,8,15,No,No,Sí,Sí,No
+853,Alumno 854,4,B,Puente Piedra,8,19,5,17,14,11,9,15,No,Sí,Sí,No,Sí
+854,Alumno 855,4,A,Los Olivos,9,17,10,6,8,13,18,15,No,No,No,No,Sí
+855,Alumno 856,4,B,Callao,17,11,20,7,11,16,16,15,Sí,No,No,Sí,No
+856,Alumno 857,4,A,Puente Piedra,17,9,12,18,19,14,5,15,No,Sí,No,No,Sí
+857,Alumno 858,4,B,Puente Piedra,19,9,16,14,10,15,5,15,No,Sí,No,Sí,No
+858,Alumno 859,4,A,Los Olivos,19,18,7,5,8,11,14,15,No,Sí,No,No,No
+859,Alumno 860,4,B,Los Olivos,13,17,9,15,17,12,7,15,Sí,Sí,Sí,No,No
+860,Alumno 861,4,A,Ventanilla,11,6,5,20,17,16,19,15,Sí,Sí,Sí,No,Sí
+861,Alumno 862,4,B,Callao,20,8,14,6,19,20,19,15,No,No,No,No,No
+862,Alumno 863,4,A,Callao,14,16,11,18,14,11,14,15,No,Sí,Sí,Sí,Sí
+863,Alumno 864,4,B,Los Olivos,18,10,14,20,6,15,7,15,No,No,Sí,Sí,No
+864,Alumno 865,4,A,Ventanilla,18,14,17,11,5,14,20,15,Sí,No,Sí,No,Sí
+865,Alumno 866,4,B,Callao,13,19,5,14,8,19,16,15,Sí,Sí,Sí,Sí,No
+866,Alumno 867,4,A,Los Olivos,11,15,16,6,8,10,12,15,No,No,No,Sí,No
+867,Alumno 868,4,B,Puente Piedra,20,11,15,10,17,20,20,15,No,Sí,No,No,No
+868,Alumno 869,4,A,Callao,16,20,13,19,5,19,13,15,Sí,No,No,Sí,No
+869,Alumno 870,4,B,Ventanilla,5,15,12,7,10,20,20,15,No,No,No,Sí,No
+870,Alumno 871,4,A,Ventanilla,20,9,11,8,8,13,19,15,Sí,Sí,Sí,Sí,No
+871,Alumno 872,4,B,Ventanilla,16,13,14,15,5,20,18,15,No,Sí,Sí,No,No
+872,Alumno 873,4,A,Puente Piedra,12,7,19,19,5,11,15,15,No,Sí,No,No,Sí
+873,Alumno 874,4,B,Callao,8,5,11,17,19,13,16,15,No,Sí,No,No,Sí
+874,Alumno 875,4,A,Callao,7,8,9,12,17,10,5,15,Sí,No,Sí,Sí,No
+875,Alumno 876,4,B,Puente Piedra,20,13,9,18,5,11,20,15,No,No,Sí,No,No
+876,Alumno 877,4,A,Callao,18,8,15,7,12,17,18,15,No,Sí,Sí,No,No
+877,Alumno 878,4,B,Puente Piedra,17,6,17,14,14,15,15,15,No,Sí,No,No,No
+878,Alumno 879,4,A,Puente Piedra,11,14,9,10,12,11,6,15,No,Sí,Sí,No,Sí
+879,Alumno 880,4,B,Puente Piedra,16,18,5,5,6,15,14,15,Sí,Sí,Sí,Sí,No
+880,Alumno 881,4,A,Ventanilla,7,18,12,11,15,19,6,15,No,Sí,Sí,No,No
+881,Alumno 882,4,B,Callao,12,9,16,12,17,18,19,15,No,No,No,Sí,No
+882,Alumno 883,4,A,Puente Piedra,10,7,15,15,11,16,8,15,Sí,Sí,No,Sí,No
+883,Alumno 884,4,B,Callao,9,17,5,18,18,18,6,15,No,Sí,No,No,No
+884,Alumno 885,4,A,Ventanilla,8,16,8,12,12,14,11,15,No,Sí,Sí,Sí,Sí
+885,Alumno 886,4,B,Puente Piedra,12,17,19,7,12,16,17,15,No,Sí,Sí,No,No
+886,Alumno 887,4,A,Los Olivos,12,13,13,18,15,20,19,15,No,No,Sí,Sí,Sí
+887,Alumno 888,4,B,Ventanilla,16,8,18,14,14,16,13,15,Sí,Sí,Sí,No,No
+888,Alumno 889,4,A,Los Olivos,5,10,13,5,19,12,11,15,No,Sí,No,No,No
+889,Alumno 890,4,B,Callao,13,6,9,13,15,16,16,15,Sí,Sí,Sí,Sí,Sí
+890,Alumno 891,4,A,Callao,18,10,8,17,17,10,10,15,No,Sí,No,No,No
+891,Alumno 892,4,B,Ventanilla,9,7,7,10,11,18,20,15,Sí,No,Sí,No,No
+892,Alumno 893,4,A,Callao,8,16,7,15,9,19,19,15,No,Sí,No,Sí,Sí
+893,Alumno 894,4,B,Los Olivos,10,16,16,13,5,15,14,15,No,No,Sí,No,No
+894,Alumno 895,4,A,Puente Piedra,10,13,9,11,16,14,5,15,Sí,No,Sí,No,Sí
+895,Alumno 896,4,B,Puente Piedra,6,15,14,5,13,16,15,15,No,No,Sí,No,Sí
+896,Alumno 897,4,A,Puente Piedra,12,6,5,16,17,14,14,15,Sí,No,No,Sí,No
+897,Alumno 898,4,B,Ventanilla,11,19,9,16,20,19,13,15,No,Sí,Sí,No,Sí
+898,Alumno 899,4,A,Callao,20,16,10,5,11,14,9,15,Sí,No,No,Sí,Sí
+899,Alumno 900,4,B,Los Olivos,5,16,20,10,6,20,20,15,No,Sí,No,Sí,No
+900,Alumno 901,5,A,Callao,9,13,11,9,10,19,15,16,No,Sí,Sí,No,No
+901,Alumno 902,5,B,Callao,20,9,16,13,6,20,9,16,No,No,Sí,Sí,No
+902,Alumno 903,5,A,Callao,16,12,20,6,19,16,10,16,Sí,Sí,No,Sí,No
+903,Alumno 904,5,B,Puente Piedra,10,6,13,12,5,19,13,16,Sí,No,No,Sí,Sí
+904,Alumno 905,5,A,Los Olivos,8,10,7,15,18,16,17,16,No,Sí,Sí,No,No
+905,Alumno 906,5,B,Los Olivos,6,7,19,9,11,20,12,16,No,No,No,Sí,Sí
+906,Alumno 907,5,A,Callao,17,16,20,6,17,12,12,16,Sí,Sí,No,No,No
+907,Alumno 908,5,B,Puente Piedra,18,16,6,17,20,12,18,16,Sí,Sí,No,Sí,Sí
+908,Alumno 909,5,A,Puente Piedra,8,18,20,14,6,19,12,16,No,Sí,No,Sí,No
+909,Alumno 910,5,B,Los Olivos,5,14,18,15,17,12,5,16,No,Sí,No,No,No
+910,Alumno 911,5,A,Puente Piedra,11,20,7,15,18,15,5,16,Sí,No,No,No,Sí
+911,Alumno 912,5,B,Puente Piedra,6,9,16,16,18,15,12,16,Sí,Sí,No,Sí,No
+912,Alumno 913,5,A,Puente Piedra,17,16,13,10,6,12,9,16,Sí,Sí,Sí,No,No
+913,Alumno 914,5,B,Ventanilla,6,12,16,14,17,12,13,16,Sí,Sí,Sí,No,Sí
+914,Alumno 915,5,A,Callao,13,14,11,12,15,17,6,16,No,No,Sí,Sí,No
+915,Alumno 916,5,B,Los Olivos,9,18,13,8,9,17,20,16,Sí,Sí,Sí,No,No
+916,Alumno 917,5,A,Los Olivos,6,5,17,6,18,16,13,16,No,No,Sí,Sí,No
+917,Alumno 918,5,B,Ventanilla,15,9,6,16,9,19,16,16,Sí,No,No,No,No
+918,Alumno 919,5,A,Callao,13,7,9,15,20,13,18,16,Sí,Sí,No,Sí,No
+919,Alumno 920,5,B,Los Olivos,13,8,17,9,11,13,12,16,No,No,Sí,No,No
+920,Alumno 921,5,A,Puente Piedra,5,6,8,19,5,12,13,16,No,Sí,No,Sí,No
+921,Alumno 922,5,B,Los Olivos,15,13,19,16,12,14,8,16,Sí,No,Sí,Sí,No
+922,Alumno 923,5,A,Puente Piedra,7,7,6,6,7,12,5,16,No,No,No,Sí,Sí
+923,Alumno 924,5,B,Ventanilla,8,19,20,6,8,17,5,16,No,Sí,Sí,No,No
+924,Alumno 925,5,A,Puente Piedra,18,6,13,19,19,16,9,16,No,No,Sí,No,No
+925,Alumno 926,5,B,Los Olivos,11,14,13,10,13,12,6,16,Sí,Sí,No,Sí,No
+926,Alumno 927,5,A,Los Olivos,14,15,10,20,8,18,20,16,Sí,Sí,No,No,No
+927,Alumno 928,5,B,Los Olivos,8,13,15,15,14,14,18,16,No,No,No,Sí,Sí
+928,Alumno 929,5,A,Ventanilla,6,11,10,14,16,18,12,16,Sí,No,No,Sí,Sí
+929,Alumno 930,5,B,Ventanilla,11,20,12,13,19,16,14,16,Sí,No,No,Sí,No
+930,Alumno 931,5,A,Callao,10,20,10,17,9,16,15,16,No,Sí,No,Sí,Sí
+931,Alumno 932,5,B,Los Olivos,7,10,5,8,11,15,9,16,Sí,Sí,No,Sí,Sí
+932,Alumno 933,5,A,Puente Piedra,10,5,8,10,20,11,9,16,Sí,Sí,Sí,Sí,No
+933,Alumno 934,5,B,Ventanilla,15,9,17,20,8,18,6,16,No,Sí,Sí,Sí,Sí
+934,Alumno 935,5,A,Los Olivos,19,16,11,11,18,15,11,16,Sí,Sí,Sí,No,Sí
+935,Alumno 936,5,B,Los Olivos,10,15,17,17,5,17,17,16,Sí,Sí,Sí,No,No
+936,Alumno 937,5,A,Ventanilla,16,18,17,15,13,10,12,16,Sí,No,Sí,Sí,Sí
+937,Alumno 938,5,B,Callao,9,19,6,10,8,14,14,16,Sí,No,Sí,No,Sí
+938,Alumno 939,5,A,Ventanilla,8,15,13,12,13,10,17,16,No,Sí,No,No,Sí
+939,Alumno 940,5,B,Ventanilla,14,7,12,8,10,19,5,16,Sí,Sí,Sí,Sí,No
+940,Alumno 941,5,A,Puente Piedra,16,5,12,16,19,20,6,16,Sí,Sí,No,No,Sí
+941,Alumno 942,5,B,Puente Piedra,19,8,11,19,5,17,14,16,Sí,Sí,Sí,No,Sí
+942,Alumno 943,5,A,Callao,5,17,8,5,16,17,20,16,No,Sí,Sí,No,Sí
+943,Alumno 944,5,B,Los Olivos,14,20,6,11,7,10,8,16,No,No,No,Sí,Sí
+944,Alumno 945,5,A,Ventanilla,10,6,7,7,15,18,9,16,No,Sí,Sí,Sí,Sí
+945,Alumno 946,5,B,Callao,6,6,16,18,6,11,17,16,No,No,Sí,Sí,Sí
+946,Alumno 947,5,A,Puente Piedra,17,7,10,10,20,18,6,16,No,No,Sí,Sí,Sí
+947,Alumno 948,5,B,Ventanilla,7,12,16,6,13,10,5,16,No,Sí,No,Sí,No
+948,Alumno 949,5,A,Los Olivos,18,12,16,13,20,19,13,16,Sí,Sí,Sí,No,No
+949,Alumno 950,5,B,Puente Piedra,12,16,9,5,19,18,18,16,Sí,Sí,No,Sí,No
+950,Alumno 951,5,A,Puente Piedra,14,19,16,10,16,13,5,16,No,Sí,Sí,No,No
+951,Alumno 952,5,B,Puente Piedra,18,11,12,10,5,18,17,16,No,No,Sí,No,No
+952,Alumno 953,5,A,Callao,18,10,10,9,17,16,19,16,No,Sí,Sí,Sí,No
+953,Alumno 954,5,B,Los Olivos,10,13,10,20,18,20,8,16,Sí,No,Sí,Sí,No
+954,Alumno 955,5,A,Ventanilla,7,8,5,17,13,15,6,16,Sí,Sí,Sí,Sí,Sí
+955,Alumno 956,5,B,Callao,20,16,8,9,13,14,15,16,No,No,Sí,Sí,No
+956,Alumno 957,5,A,Callao,11,5,9,5,12,20,8,16,No,No,Sí,No,No
+957,Alumno 958,5,B,Callao,8,12,16,14,12,18,12,16,No,No,Sí,Sí,Sí
+958,Alumno 959,5,A,Puente Piedra,18,11,15,16,15,11,12,16,Sí,Sí,No,Sí,No
+959,Alumno 960,5,B,Los Olivos,13,11,7,9,18,20,19,16,No,No,No,No,No
+960,Alumno 961,5,A,Callao,19,20,17,6,16,11,15,16,Sí,Sí,No,Sí,No
+961,Alumno 962,5,B,Ventanilla,9,19,13,11,5,20,16,16,No,Sí,No,Sí,No
+962,Alumno 963,5,A,Los Olivos,7,7,5,7,15,18,13,16,No,No,No,Sí,No
+963,Alumno 964,5,B,Ventanilla,6,8,10,17,12,12,17,16,Sí,Sí,Sí,Sí,Sí
+964,Alumno 965,5,A,Los Olivos,15,14,10,19,14,17,19,16,Sí,No,No,No,No
+965,Alumno 966,5,B,Ventanilla,6,13,14,8,18,20,15,16,No,No,Sí,Sí,Sí
+966,Alumno 967,5,A,Puente Piedra,7,19,9,7,7,18,19,16,No,No,Sí,Sí,Sí
+967,Alumno 968,5,B,Callao,6,10,16,7,15,17,16,16,Sí,No,Sí,Sí,No
+968,Alumno 969,5,A,Ventanilla,18,19,19,8,11,13,9,16,No,No,No,Sí,Sí
+969,Alumno 970,5,B,Los Olivos,8,19,9,9,15,10,11,16,Sí,Sí,Sí,Sí,No
+970,Alumno 971,5,A,Callao,6,9,14,5,19,13,7,16,Sí,No,No,No,No
+971,Alumno 972,5,B,Callao,20,7,18,8,5,18,14,16,Sí,No,No,Sí,No
+972,Alumno 973,5,A,Los Olivos,14,13,17,16,5,11,8,16,No,Sí,No,No,No
+973,Alumno 974,5,B,Ventanilla,13,9,9,16,20,12,14,16,No,Sí,Sí,Sí,No
+974,Alumno 975,5,A,Puente Piedra,6,9,10,15,14,19,13,16,No,No,Sí,No,No
+975,Alumno 976,5,B,Puente Piedra,13,18,12,12,17,17,14,16,Sí,No,No,No,No
+976,Alumno 977,5,A,Ventanilla,17,8,6,14,9,15,14,16,No,No,No,Sí,No
+977,Alumno 978,5,B,Callao,10,18,10,11,9,17,18,16,No,No,Sí,Sí,Sí
+978,Alumno 979,5,A,Callao,5,8,5,13,12,16,16,16,Sí,No,Sí,Sí,No
+979,Alumno 980,5,B,Callao,8,16,8,9,11,14,5,16,No,Sí,Sí,Sí,No
+980,Alumno 981,5,A,Callao,19,5,18,17,12,18,6,16,No,Sí,No,No,No
+981,Alumno 982,5,B,Ventanilla,18,11,14,19,10,13,20,16,Sí,No,Sí,No,No
+982,Alumno 983,5,A,Callao,5,13,7,14,10,15,9,16,Sí,Sí,Sí,Sí,No
+983,Alumno 984,5,B,Los Olivos,18,7,13,8,6,11,7,16,No,Sí,Sí,No,No
+984,Alumno 985,5,A,Callao,20,16,7,12,10,11,6,16,No,Sí,No,Sí,Sí
+985,Alumno 986,5,B,Puente Piedra,10,17,19,13,9,11,5,16,Sí,No,Sí,No,No
+986,Alumno 987,5,A,Callao,18,19,10,17,17,19,14,16,No,No,Sí,Sí,No
+987,Alumno 988,5,B,Ventanilla,17,6,5,11,20,16,7,16,Sí,Sí,No,No,Sí
+988,Alumno 989,5,A,Puente Piedra,8,7,16,18,7,11,5,16,Sí,No,No,Sí,No
+989,Alumno 990,5,B,Ventanilla,7,5,10,20,10,11,16,16,No,No,No,No,Sí
+990,Alumno 991,5,A,Ventanilla,7,10,8,11,12,18,5,16,No,Sí,No,Sí,Sí
+991,Alumno 992,5,B,Puente Piedra,13,15,12,20,13,16,16,16,No,Sí,Sí,No,Sí
+992,Alumno 993,5,A,Ventanilla,10,15,17,9,5,20,5,16,Sí,No,Sí,Sí,Sí
+993,Alumno 994,5,B,Ventanilla,13,11,15,8,7,12,12,16,Sí,No,Sí,Sí,Sí
+994,Alumno 995,5,A,Callao,17,15,13,18,7,12,19,16,Sí,No,No,No,No
+995,Alumno 996,5,B,Los Olivos,9,15,8,14,15,16,7,16,No,No,No,Sí,No
+996,Alumno 997,5,A,Ventanilla,6,6,14,5,12,14,15,16,Sí,No,Sí,No,Sí
+997,Alumno 998,5,B,Ventanilla,12,12,16,14,5,19,5,16,Sí,No,Sí,Sí,No
+998,Alumno 999,5,A,Ventanilla,9,18,14,14,9,15,11,16,Sí,Sí,Sí,Sí,No
+999,Alumno 1000,5,B,Callao,6,10,10,11,7,17,14,16,Sí,No,No,No,Sí
